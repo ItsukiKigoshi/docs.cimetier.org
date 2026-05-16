@@ -13,4 +13,3 @@ create-pages:
     - npm ci
   script:
     - npx quartz build
-    - mv public_quartz public
