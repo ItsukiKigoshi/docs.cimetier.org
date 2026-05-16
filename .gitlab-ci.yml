@@ -1,0 +1,17 @@
+# https://docs.gitlab.com/ja-jp/ci/yaml/
+image: node:22-alpine
+
+pages:
+  stage: deploy
+  cache:
+    paths:
+      - node_modules/
+  script:
+    - npm ci
+    - npx quartz build
+    - mv public_quartz public  # Quartzが出力したフォルダをGitLab Pages用にリネーム
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
