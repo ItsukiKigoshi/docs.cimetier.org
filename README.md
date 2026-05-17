@@ -1,6 +1,8 @@
 # Quartz v4
 
-Created with [Quartz v4](https://github.com/jackyzha0/quartz)
+GitLab CI で差分だけ更新できないの？
+
+Created with [Quartz v4](https://github.com/jackyzha0/quartz) ([Docs](https://quartz.jzhao.xyz/))
 
 To update Quarts version:
 (already added the [original repository](https://github.com/jackyzha0/quartz.git) to "upstream")
