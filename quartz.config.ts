@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Cimetier/L'Atrie d'Itsuki Kigoshi",
-    pageTitleSuffix: " - Cimetier/L'Atrie d'Itsuki Kigoshi",
+    pageTitle: "Cimetier Docs",
+    pageTitleSuffix: " - L'Atrie d'Itsuki Kigoshi",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
