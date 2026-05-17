@@ -1,0 +1,31 @@
+---
+title: "🏕️人生でやりたいこと諸々ﾓﾛ"
+date: 2026-04-23T01:05:16
+---
+# ひとびとをまきこむ
+- 東京河川で水運スタートアップ
+	- 自律走行マイクロ舟で低運賃の荷物輸送
+	- 陸運と連携しサプライチェーン全体の効率化
+	- Cf. [エイトノット](https://adv.tokyo-np.co.jp/prtimes/article12022/)
+- 🎥映像素材管理
+	- 撮影からポスプロまでの一括管理
+- 🏫Moodle Junior: Where the course materials are gathered, for Japanese junior high school students, open source, be free from 教科書会社の思惑
+	- Moodle Instance for Japanese Public Junior High School
+	- 小中学生版Moodle: 可愛いデザイン，わかりやすいカスタマイズ性，充実のドキュメン
+- 🚋満員電車を使わなくても良い場所にオフィスをつくる（doesn't have to be in personだけど対面の意義も加味して）
+- 🌋高尾山オフィス&高尾山ピッチ: Place an Office near Mt. Takao and Do Mt.Takao Pitch (cf. Elevetor Pitch), where I can check 取引先’ｓ 体力 physically & mentally. Ppl can talk ざっくばらんに on a mountain😉
+- 👩‍⚕️Ubie-World Integration: 機械学習によるスクリーニングの上で最終判断を医師に任せることで医師不足を解消
+	- 地域連携かかりつけ医: 地域で"この科はこの病院"を決めてしまう
+- 🗳選挙カーと街頭演説に加えて，日本の選挙を面白くする選挙手法を考える．そもそも選挙の形から
+- 🚰超音波と衛星画像で私有地と公営の水道管破損率を地区別に予測する
+	- もうある: [宇宙水道局](https://suido.tenchijin.co.jp/)
+- 👀🚗EYES-ON-U: 自動運転車に目を付ける; waymoに"Cars"みたいに目を付けて他の歩行者や運転者とコミュニケーション取れるようにしたら？like 猫ロボットinすかいらーく
+	- Automobile Cars interect with others with EYES-ON-U. / 自動運転車に眼を付けて，歩行者や他の車とコミュニケーションする．
+	- 停車時に眼をつぶったり，ニコッとして歩行者を先に通したり，マナー違反に少し怒るWaymoがいたら可愛い．
+	- 猫バス in "となりのトトロ"
+	- "Cars"
+	- "Thomas & Friends"
+	- Pudu "BellaBot" (すかいらーくの配膳ロボット)
+	- [Autoware](https://github.com/autowarefoundation/autoware)
+- CLEF
+- 落語の聴き放題: 寄席も一緒に盛り上げる
