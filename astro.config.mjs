@@ -35,11 +35,15 @@ export default defineConfig({
         },
         {
           label: "Future",
-          items: [{ autogenerate: { directory: "future" } }],
+          items: [{ autogenerate: { directory: "future" },},],
         },
         {
           label: "Past",
           items: [{ autogenerate: { directory: "past" } }],
+        },
+        {
+          label: "Ideas",
+          items: [{ autogenerate: { directory: "idea" },},],
         },
       ],
     }),
