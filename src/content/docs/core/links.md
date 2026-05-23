@@ -23,7 +23,7 @@ https://cimetier.org/
 - Discord: @itsukikigoshi
 
 ### Just Fed Up with...
-*走馬灯にReelsなんて，そんな人生，誰が望んでいるだろう*
+*走馬灯にReelsなんて，そんな人生を誰が望む？*
 - Instagram: deleted
 - Twitter:deleted
 - Facebook: deleted
