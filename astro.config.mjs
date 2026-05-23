@@ -4,16 +4,21 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://docs.cimtier.org/',
   integrations: [
     starlight({
       title: "Cimetier Docs",
-      social: [
-        {
-          icon: "github",
-          label: "GitHub",
-          href: "https://github.com/withastro/starlight",
-        },
-      ],
+      editLink: {
+        baseUrl: 'https://gitlab.com/itsukikigoshi/docs.cimetier.org/-/blob/main/'
+      },
+      favicon: '/favicon.ico',
+      // social: [
+      //   {
+      //     icon: "github",
+      //     label: "GitHub",
+      //     href: "https://github.com/withastro/starlight",
+      //   },
+      // ],
       sidebar: [
         {
           label: "Guides",
