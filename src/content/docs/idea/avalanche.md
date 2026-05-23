@@ -28,4 +28,6 @@ description: Random IDEAs that I've come up with
 - <https://ieeexplore.ieee.org/document/10978770> (2025)
 ### 製品
 - <https://centum.com/en/products/lifeseeker/>
-	- Cin be DUAL-USED. Need to be careful on use for killing someone (which is, what I don't want to)
+  - →これって，軍事転用も出来そうな恐ろしい技術だな．
+  - 例えば9/11後に行われたテロリストの邸宅攻撃時に潜伏している人間の存在を把握する，など．
+  - 戦争でも，隠れている敵軍兵士の場所を割り出すのに使えてしまう．
