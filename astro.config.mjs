@@ -20,12 +20,12 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "guides" } }],
         },
         {
-          label: "Future",
-          items: [{ autogenerate: { directory: "future" } }],
+          label: "Core",
+          items: [{ autogenerate: { directory: "core" } }],
         },
         {
-          label: "Current",
-          items: [{ autogenerate: { directory: "current" } }],
+          label: "Future",
+          items: [{ autogenerate: { directory: "future" } }],
         },
         {
           label: "Past",

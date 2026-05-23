@@ -8,6 +8,8 @@ pages:
   script:
     - bun install --frozen-lockfile
     - bun run build
+    - rm -rf public
+    - mv dist public
 
   artifacts:
     paths:
