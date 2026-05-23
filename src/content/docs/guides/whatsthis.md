@@ -3,7 +3,7 @@ title: What's This?
 description: A guide in your cimetier docs site.
 ---
 
-This is my personal documentation site for legally exploiting my thoughts.
+This is my personal documentation site for legally exposing my thoughts.
 
 ## Further reading
 
