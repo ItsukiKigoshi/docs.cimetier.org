@@ -1,5 +1,5 @@
 ---
-title: 留学総括
+title: 留学総括 (Berkeley 2025-6)
 draft: true
 ---
 ## 時系列
