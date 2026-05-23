@@ -2,16 +2,21 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+import tailwindcss from "@tailwindcss/vite";
+
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://docs.cimtier.org/',
+  site: "https://docs.cimtier.org/",
+
   integrations: [
     starlight({
       title: "Cimetier Docs",
+      customCss: ["./src/styles/global.css"],
       editLink: {
-        baseUrl: 'https://gitlab.com/itsukikigoshi/docs.cimetier.org/-/blob/main/'
+        baseUrl:
+          "https://gitlab.com/itsukikigoshi/docs.cimetier.org/-/blob/main/",
       },
-      favicon: '/favicon.ico',
+      favicon: "/favicon.ico",
       // social: [
       //   {
       //     icon: "github",
@@ -39,4 +44,8 @@ export default defineConfig({
       ],
     }),
   ],
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
