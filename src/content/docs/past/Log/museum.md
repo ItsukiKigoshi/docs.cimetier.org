@@ -1,31 +1,11 @@
 ---
 title: Visite au Musee
-draft: true
 ---
-# 私の
-## 行きたい
-- 金沢21世紀
-- 瀬戸内国際
-- あいちトリエンナーレ
-- 土門拳記念館
-- 植田正治写真美術館
-- 地中美術館
-- 丸亀市猪熊弦一郎現代美術館
-- 星と森と絵本の家
-- すみだパークシアター倉
-- ラビットホール
-- The Design Museum London
-- ヨックモック
-- ワタリウム
-- 神奈川近代美術館
-- （横浜みなと博物館）
-- （三菱みなとみらい技術館）
-- （日本新聞博物館）
-- （[みやぎ東日本大震災津波伝承館](https://www.pref.miyagi.jp/site/denshokan/index.html)）
-
-## 行った
 ## 2026
+### 5/20
+- Hawaii NOAA
 
+### 5/ ?
 - Legion of Honor
 - de Young
 
