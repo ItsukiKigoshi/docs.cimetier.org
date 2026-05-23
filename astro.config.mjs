@@ -17,6 +17,7 @@ export default defineConfig({
           "https://gitlab.com/itsukikigoshi/docs.cimetier.org/-/blob/main/",
       },
       favicon: "/favicon.ico",
+      lastUpdated: true,
       // social: [
       //   {
       //     icon: "github",
