@@ -48,6 +48,10 @@ export default defineConfig({
           label: "Past",
           items: [{ autogenerate: { directory: "past" } }],
         },
+        {        
+          label: "Random",
+          items: [{ autogenerate: { directory: "random" } }],
+        },
       ],
     }),
   ],
