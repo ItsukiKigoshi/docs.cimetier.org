@@ -1,0 +1,29 @@
+---
+title: Curating YouTube
+---
+- [はなのにちようび](https://www.youtube.com/@hanaaa.1005)
+- [お前も私も物理法則には逆らえないチャンネル](https://www.youtube.com/@%E9%80%86%E3%82%89%E3%81%88%E3%81%AA%E3%81%84)
+- [Saki Kawamura in NYC🗽](https://www.youtube.com/@SakiKawamura)
+- [木村拓哉](https://www.youtube.com/@takuya.kimura.official)
+- [ぜうん](https://www.youtube.com/channel/UCiUH11FEQ-D37ubOPB6-Suw)
+- [あのちゅーる](https://www.youtube.com/@anochuru)
+- [dina's film diary](https://www.youtube.com/@dinayamazaki):
+- [NEVER TOO SMALL](https://www.youtube.com/@nevertoosmall) 
+	- [Masato Igarashi](https://www.youtube.com/watch?v=x9M7ghTPaaU)
+- [乃木坂配信中](https://www.youtube.com/@nogizakahaishinchu)
+- [好き語り](https://www.youtube.com/@sukigatari)
+- [Weekly Ochiai](https://youtube.com/playlist?list=PLDxonNcxMgrtONxErEWf2ZUlVJAoqDh9R)
+- [夜明け前のPLAYERS](https://www.youtube.com/@yoakemaeplayers)
+	- [石井裕](https://youtu.be/3xhqyR39Lns)
+- [WIRED.jp](https://www.youtube.com/@WIREDjp)
+	- [James Dyson](https://youtu.be/RPd76O3j5ug), [Alex Honnold](https://youtu.be/ID5tE-8KqFY)
+- [CGP Grey](https://www.youtube.com/@CGPGrey)
+- [Vox](https://www.youtube.com/@Vox)
+- [CS50](https://www.youtube.com/@cs50)
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+- [東大数理ビデオアーカイブ](https://www.youtube.com/@msutokyovideo)
+- [TAKEMOVIE](https://www.youtube.com/@TAKEMOVIE)
+- [MARiA麻莉亜](https://www.youtube.com/@maria%5Fyamatuber)
+- [X Games](https://www.youtube.com/@XGames)
+- [Red Bull](https://www.youtube.com/@redbull)
+- [ムーザルちゃんねる](https://www.youtube.com/@moozaru): 彼らはカップルなんだろうか？
