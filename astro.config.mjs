@@ -49,6 +49,10 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "past" } }],
         },
         {        
+          label: "自省",
+          items: [{ autogenerate: { directory: "self" } }],
+        },
+        {        
           label: "Random",
           items: [{ autogenerate: { directory: "random" } }],
         },
