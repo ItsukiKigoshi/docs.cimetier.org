@@ -45,6 +45,10 @@ export default defineConfig({
           ],
         },
         {
+          label: "Ongoing",
+          items: [{ autogenerate: { directory: "ongoing" } }],
+        },
+        {
           label: "Past",
           items: [{ autogenerate: { directory: "past" } }],
         },
