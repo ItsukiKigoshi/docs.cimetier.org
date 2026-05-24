@@ -1,6 +1,5 @@
 ---
 title: Shopping List
-draft: true
 ---
 - [ ] ココヘリ: キャンペーン
 - [ ] やまきふ
