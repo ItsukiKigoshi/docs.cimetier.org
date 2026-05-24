@@ -18,13 +18,13 @@ export default defineConfig({
       },
       favicon: "/favicon.ico",
       lastUpdated: true,
-      // social: [
-      //   {
-      //     icon: "github",
-      //     label: "GitHub",
-      //     href: "https://github.com/withastro/starlight",
-      //   },
-      // ],
+      social: [
+        {
+          icon: "gitlab",
+          label: "GitLab",
+          href: "https://gitlab.com/itsukikigoshi/docs.cimetier.org/",
+        },
+      ],
       sidebar: [
         {
           label: "Guides",
