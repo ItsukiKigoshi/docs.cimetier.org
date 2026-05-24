@@ -12,7 +12,7 @@ sidebar:
 - OIST
 
 ## Tech
-- [Bun.sh](https://apply.workable.com/bun/)
+- [Bun/Oven.sh](https://apply.workable.com/bun/)
 - [Cloudflare](https://www.cloudflare.com/careers/)
 - [DeepMind](https://deepmind.google/careers/)
 - [GitLab](https://about.gitlab.com/jobs/all-jobs/)
