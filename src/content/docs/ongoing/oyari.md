@@ -1,5 +1,6 @@
 ---
 title: Hutte Oyari
+lastUpdated: 2026-05-25
 ---
 ## 観測
 - [ ] 測量野帳

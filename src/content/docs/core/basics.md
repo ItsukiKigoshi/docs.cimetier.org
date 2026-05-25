@@ -3,6 +3,7 @@ title: Basics
 description: Just The Basics.
 sidebar:
   order: 1
+lastUpdated: 2026-05-25
 ---
 
 - I was born in **25 Sep, 2004** in Ube, Yamaguchi. Japan

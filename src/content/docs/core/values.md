@@ -3,6 +3,7 @@ title: Values
 description: Values
 sidebar:
   order: 2
+lastUpdated: 2026-05-25
 ---
 ## Roots
 *脈々と流れる*

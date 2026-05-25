@@ -1,8 +1,8 @@
 ---
 title: Avalanche Bluetooth Rescue
 description: Random IDEAs that I've come up with
+lastUpdated: 2026-05-25
 ---
-
 
 ## Abstract
 - 雪崩や建物倒壊（事故，地震）で生き埋めになった人々のスマートフォンから発信される電波で遭難者を発見する．

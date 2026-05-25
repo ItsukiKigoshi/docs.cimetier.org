@@ -1,5 +1,6 @@
 ---
 title: Curating YouTube
+lastUpdated: 2026-05-25
 ---
 - [はなのにちようび](https://www.youtube.com/@hanaaa.1005)
 - [お前も私も物理法則には逆らえないチャンネル](https://www.youtube.com/@%E9%80%86%E3%82%89%E3%81%88%E3%81%AA%E3%81%84)

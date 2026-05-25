@@ -1,5 +1,6 @@
 ---
 title: Films Vus
+lastUpdated: 2026-05-25
 ---
 [IMDb](https://www.imdb.com/user/ur163313033/checkins)には収まりきらぬ感傷記録たち. VimeoときどきYouTube.
 - [Future Thoughts](https://vimeo.com/loekvugs/futurethoughts) 2018/12/30  

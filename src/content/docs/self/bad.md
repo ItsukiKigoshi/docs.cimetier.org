@@ -1,6 +1,7 @@
 ---
 title: 汚点
 description: https://youtu.be/Sd4SJVsTulc
+lastUpdated: 2026-05-25T09:56:00
 ---
 *もうこのままじゃいられない*
 ## [夢見る子どもじゃいられない](https://youtu.be/FnFYjUvW3Qg)

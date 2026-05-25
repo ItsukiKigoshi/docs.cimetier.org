@@ -2,6 +2,7 @@
 title: Bucket List
 sidebar:
   order: 1
+lastUpdated: 2026-05-25
 ---
 ## 訪れる/Visit
 - [ ] 槍ヶ岳 

@@ -1,5 +1,6 @@
 ---
 title: Shopping List
+lastUpdated: 2026-05-25
 ---
 - [ ] ココヘリ: キャンペーン
 - [ ] やまきふ

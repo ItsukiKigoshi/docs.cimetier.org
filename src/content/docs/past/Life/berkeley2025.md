@@ -1,6 +1,7 @@
 ---
 title: 留学総括 (Berkeley 2025-6)
 draft: true
+lastUpdated: 2026-05-25
 ---
 ## 概要
 - 2025年8月から2026年5月まで，私が在籍している国際基督教大学の交換留学生として米国カリフォルニア州はUniversity of California, Berkeleyに留学した．

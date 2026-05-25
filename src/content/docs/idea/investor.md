@@ -1,5 +1,6 @@
 ---
 title: おこづかインベスター
+lastUpdated: 2026-05-25
 ---
 allowance-investor / おこづかインベスター
 ## TL; DR

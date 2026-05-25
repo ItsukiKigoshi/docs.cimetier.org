@@ -1,5 +1,6 @@
 ---
 title: Curhythm
+lastUpdated: 2026-05-25
 ---
 Rubik's Cube型リズムシーケンサー
 - Previous works  

@@ -1,5 +1,6 @@
 ---
 title: ロールモデルを見つける
+lastUpdated: 2026-05-25
 ---
 
 |     | 落合陽一 | 村山斉 | [石井宏](https://www.media.mit.edu/groups/tangible-media/overview/) | [五十嵐 祐花](https://people.csail.mit.edu/yuka/) | [大西 拓磨](https://o24.works/) | [Yosi Ogata](https://www.ism.ac.jp/~ogata/index.html) | NIIの人 | みをの人 |

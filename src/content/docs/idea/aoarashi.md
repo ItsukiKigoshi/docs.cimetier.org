@@ -1,6 +1,7 @@
 ---
 title: 青嵐文庫
 description: "青嵐: 青空の下に吹き抜ける一陣の山気"
+lastUpdated: 2026-05-25
 ---
 Aoarash.org / Seiran.org
 > *青嵐: 青空の下に吹き抜ける一陣の山気．*
