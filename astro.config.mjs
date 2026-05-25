@@ -26,10 +26,7 @@ export default defineConfig({
         },
       ],
       sidebar: [
-        {
-          label: "Guides",
-          items: [{ autogenerate: { directory: "guides" } }],
-        },
+        { slug: "index" },
         {
           label: "Core",
           items: [{ autogenerate: { directory: "core" } }],
@@ -52,11 +49,11 @@ export default defineConfig({
           label: "Past",
           items: [{ autogenerate: { directory: "past" } }],
         },
-        {        
+        {
           label: "自省",
           items: [{ autogenerate: { directory: "self" } }],
         },
-        {        
+        {
           label: "Random",
           items: [{ autogenerate: { directory: "random" } }],
         },
