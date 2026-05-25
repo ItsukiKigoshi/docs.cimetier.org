@@ -1,5 +1,5 @@
 ---
-title: Hutte Oyari
+title: ヒュッテ大槍
 lastUpdated: 2026-05-25
 ---
 ## 観測
