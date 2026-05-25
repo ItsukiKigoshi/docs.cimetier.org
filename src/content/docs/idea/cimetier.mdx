@@ -1,8 +1,9 @@
 ---
 title: Cimetier.com
 lastUpdated: 2026-05-25
-import { Badge } from '@astrojs/starlight/components'; 
 ---
+import { Badge } from '@astrojs/starlight/components'; 
+
 ## TL;DR
 - 世界中の美術館/博物館+展覧会を巡った記録/訪れたい場所を保存できるWebサイト.  
 - 作品の墓場 (fr: cimetière) と揶揄されてきた世界中のmuseumを巡り，あなたが鑑賞し，解釈することで作品をreviveするゲーム.  
@@ -15,9 +16,10 @@ import { Badge } from '@astrojs/starlight/components';
 	2. 展覧会
 	3. 作品
 3. Visit
-	1. チケット（一切のインターネット不要，Google/Apple Walletへのリッチな対応）
+	1. チケット（一切のインターネット不要，[Google](https://developers.google.com/wallet)/[Apple Wallet](https://developer.apple.com/documentation/walletpasses)へのリッチな対応）
 		1. かわいい（動いてもいい）デザイン
-		2. インターネット接続が必要無いようにに設計
+		2. インターネット接続が必要無いように設計
+		3. 印刷して持っていくのでももちろんOK
 	2. 作品一覧
 		1. 各国の美術館デジタルアーカイブとIIIFなどで連携した「原典に当たる」デザイン
 	3. 作品解説
@@ -28,7 +30,6 @@ import { Badge } from '@astrojs/starlight/components';
 	2. 気に入った作品の保存
 	3. 展覧会図録やグッズ販売
 
-
 ## Uniqueness
 - 原典に依拠した豊富なデータベース
 - ユーザ起点で美術館とつながれるプラットフォーム
@@ -38,24 +39,26 @@ import { Badge } from '@astrojs/starlight/components';
 ## Publish
 - iOS/Web/Androidすべてに対応
 
+## Possible Expansion
+- 美術関連書籍の出版
+- 教育プログラムの共同開発
+
 ## Market Investigation
 ### 作品/展覧会情報/批評
-#### [artscape](https://artscape.jp/)
+#### [artscape](https://artscape.jp/) <Badge text="Japan" />
 DNP
-#### [美術手帖](https://bijutsutecho.com/)
-#### [Artsy](https://www.artsy.net/)
+#### [美術手帖](https://bijutsutecho.com/) <Badge text="Japan" />
+#### [Artsy](https://www.artsy.net/) <Badge text="Global" />
 - 作品売買も
-#### [ArtReview](https://artreview.com/)
-#### [Google Arts & Culture](https://artsandculture.google.com/)
+#### [ArtReview](https://artreview.com/) <Badge text="Global" />
+#### [Google Arts & Culture](https://artsandculture.google.com/)  <Badge text="Global" />
 - 画像から作品を検索したり，地図と結びつけるなどGoogleの既存サービスを活かした機能
 ### チケット予約
 #### [E-tix](https://etix.co.jp/) <Badge text="Japan" />
 - 強み:
 	- 長年運用してきた実績
 #### [ArtPass](https://art.passes.jp/) <Badge text="Japan" />
-- KDDI系
-- 強み:
-	- 
+- KDDI系?
 ### オーディオガイド
 - 
 ### デジタルアーカイブ
