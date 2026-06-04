@@ -9,14 +9,14 @@ lastUpdated: 2026-05-25
 *脈々と流れる*
 - I value and believe in the power of **academia**, the **arts**, and **open source**.
   - Open Access, Creative Commons, Open Source 
-
 ## Don't Repeat Yourself (DRY)
 *Sur les épaules d'un géant*
 - 既存の解決策を車輪の再発明しない．
 - おそらく日本のガラパゴス化は，言語の差（と法規制）によって外の情報が入らず，既存の良い解決策があるのに自分で1から作ろうとしてしまう
 - DRYしたかったら，自分の作品も他人が参照できるように公開する
- 	- 論文にして公開すること
-
+ - 論文にして公開すること
+## 分からないことを恥じない/馬鹿にしない
+- 特に知を探求するアカデミアンとして「（それが分かって）何が嬉しいのか」 ("big picture")，を説明できる人になる
 ## 終わりから始める
 *二度目の死に備える*
 - 本を出す
