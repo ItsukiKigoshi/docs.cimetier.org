@@ -1,0 +1,12 @@
+---
+title: OSS Contribution
+lastUpdated: 2026-06-04
+---
+*ContributeしたいOSS*
+
+## GNOME Calendar
+- 機能: タイムゾーン変更機能 like Apple Calendar
+- [GitLab](https://gitlab.gnome.org/GNOME/gnome-calendar)
+
+## Tinymist on Zed
+- 機能: オフラインで動作可能に
