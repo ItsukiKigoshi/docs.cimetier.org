@@ -2,7 +2,7 @@
 title: OSS Contribution
 lastUpdated: 2026-06-04
 ---
-*ContributeしたいOSS*
+*ContributeしたいOpen Source Software*
 
 ## GNOME Calendar
 - 機能: タイムゾーン変更機能 like Apple Calendar
