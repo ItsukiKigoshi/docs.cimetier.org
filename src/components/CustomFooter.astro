@@ -1,0 +1,50 @@
+---
+import Default from "@astrojs/starlight/components/Footer.astro";
+const currentYear = new Date().getFullYear();
+---
+
+<Default {...Astro.props}>
+    <slot />
+</Default>
+
+<footer
+    class="mt-8 pt-8 border-t border-gray-200 dark:border-gray-800 text-center"
+>
+    <p class="text-xs text-gray-500 dark:text-gray-400 leading-loose">
+        <a
+            href="https://docs.cimetier.org"
+            class="underline hover:text-gray-900 dark:hover:text-white"
+            >Cimetier Docs</a
+        >
+        &copy; {currentYear} by
+        <a
+            href="https://cimetier.org"
+            class="underline hover:text-gray-900 dark:hover:text-white"
+            >Itsuki Kigoshi</a
+        >
+        is licensed under
+        <a
+            href="https://creativecommons.org/licenses/by-sa/4.0/"
+            class="underline hover:text-gray-900 dark:hover:text-white"
+            rel="license">CC BY-SA 4.0</a
+        >
+
+        <span class="inline-flex items-center ml-1 align-middle gap-0.5">
+            <img
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+                alt="CC"
+                class="h-[1em] w-auto dark:invert"
+            />
+            <img
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
+                alt="BY"
+                class="h-[1em] w-auto dark:invert"
+            />
+            <img
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"
+                alt="SA"
+                class="h-[1em] w-auto dark:invert"
+            />
+        </span>
+    </p>
+</footer>

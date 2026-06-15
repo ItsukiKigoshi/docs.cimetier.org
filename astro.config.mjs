@@ -12,6 +12,9 @@ export default defineConfig({
     starlight({
       title: "Cimetier Docs",
       customCss: ["./src/styles/global.css"],
+      components: {
+              Footer: './src/components/CustomFooter.astro',
+            },
       editLink: {
         baseUrl:
           "https://gitlab.com/itsukikigoshi/docs.cimetier.org/-/blob/main/",
