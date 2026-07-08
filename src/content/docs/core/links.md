@@ -29,7 +29,7 @@ https://cimetier.org/
 - Twitter:deleted
 - Facebook: deleted
 - LINE: deleted
-- WhatsApp: unavailable
+- WhatsApp: deleted
 - Reddit: unavailable
 - Snapchat:deleted
 - BeReal.: deleted
