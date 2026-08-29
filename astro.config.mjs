@@ -57,6 +57,10 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "self" } }],
         },
         {
+          label: "Books",
+          items: [{ autogenerate: { directory: "books" } }],
+        },
+        {
           label: "Random",
           items: [{ autogenerate: { directory: "random" } }],
         },
