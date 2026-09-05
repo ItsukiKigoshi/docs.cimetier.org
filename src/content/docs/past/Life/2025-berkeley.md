@@ -145,13 +145,50 @@ ICUの関連財団が主催するNew Yorkでの留学生交流イベントがJan
 こうやって見ると大変長い間泊めていただいたわけだ．改めてありがとうございました．
 
 #### New York (January 2-11, 2026)
-- 9/11 Memorial
-- MoMA
-- Guggenheim
-#### Boston (January 12-13, 2026)
-- MIT Media Lab
-- Harvard
+# 2026/1/2
+* Times Square
+
+# 1/3
+- [x] 9/11
+
+# 1/4
+* 寝てた
+
+# 1/5
+- [x] MoMA
+
+# 1/6
+* 寝てた
+
+# 1/7
+- [x] Guggenheim
+- [x] American Museum of Natural History
+
+# 1/8
+- [x] Whiteney
+
+# 1/9
+- [x] MET
+- [x] JICUF
+
+# 1/10
+- [x] Ellis
+
+
+
+#### Boston (January 11-12, 2026)
+# 1/11 NY→Boston
+- [x] MIT Media Lab
+# 1/12 Boston
+- [x] MIT Press Bookstore
+- [x] MIT COOP
+- [x] MIT Museum
+- [x] Harvard
+
+# 1/13 Leave Boston
 #### Amtrak (January 13-16, 2026)
+
+# 1/14-16 Boston → NY → Chicago → Sacramento → Berkeley
 
 #### Sacramento (Fri, January 16, 2026)
 
@@ -163,6 +200,17 @@ ICUの関連財団が主催するNew Yorkでの留学生交流イベントがJan
 2. EPSC12: The Planets
 3. EPS88: Python & Earth Science
 4. MATH123: Ordinary Differential Equations
+
+##### Astron7B: Intro Astrophysics
+結果的にこの授業と，次のThe PlanetsがBerkeleyで履修した授業で一番印象深かったと思う．いわゆる「天文学」の入門コースに当たるもので，parsecなど天文学の基礎的な単位や概念を導入しつつ，物理学生向けに宇宙の研究に関する歴史をトピックごとに扱うものであった．
+先学期に取った地理があまりにもハマらなかったので，隣接領域である天文学を履修することにしたのだが（その経緯はあまり覚えていないのだが），これは幸運な選択だったと思う．
+
+##### EPSC12: The Planets
+
+##### EPS88: Python & Earth Science
+
+##### MATH123: Ordinary Differential Equations
+
 - 後期
 	- 数学 退屈
 	- 天文学 難しい 何言っているかわからない
@@ -304,7 +352,6 @@ ICUの関連財団が主催するNew Yorkでの留学生交流イベントがJan
 - militaryとかベテランの優遇がある（飛行機）
 
 卒業していく人たちの笑顔を見ているとHappy Endingにしたくなるが，この1年で得たものは多かれどこの先については迷いが増えたと思う
-
 
 携帯電話番号はなくてもいけるがたまに困る
 - Zelle
