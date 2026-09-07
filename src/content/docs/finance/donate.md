@@ -8,3 +8,5 @@ lastUpdated: 2026-09-03
 # Wanna Donate
 * Japan Red Cross
 * 国立美術館
+* Mozilla Foundation
+* Linux Foundation
