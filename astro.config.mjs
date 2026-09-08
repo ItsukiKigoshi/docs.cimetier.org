@@ -35,26 +35,20 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "core" } }],
         },
         {
-          label: "Future",
-          items: [
-            { autogenerate: { directory: "future" } },
-            {
-              label: "Ideas",
-              items: [{ autogenerate: { directory: "idea" } }],
-            },
-          ],
+          label: "Life",
+          items: [{ autogenerate: { directory: "life" } }],
         },
         {
-          label: "Ongoing",
-          items: [{ autogenerate: { directory: "ongoing" } }],
+          label: "Log",
+          items: [{ autogenerate: { directory: "log" } }],
         },
         {
-          label: "Past",
-          items: [{ autogenerate: { directory: "past" } }],
+          label: "Finance",
+          items: [{ autogenerate: { directory: "finance" } }]
         },
         {
-          label: "自省",
-          items: [{ autogenerate: { directory: "self" } }],
+          label: "Ideas",
+          items: [{ autogenerate: { directory: "idea" } }],
         },
         {
           label: "Books",

@@ -1,7 +1,7 @@
 ---
 title: Bucket List
 sidebar:
-  order: 1
+  order: 4
 lastUpdated: 2026-08-29
 ---
 ## 訪れる/Visit

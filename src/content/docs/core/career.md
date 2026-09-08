@@ -1,5 +1,7 @@
 ---
 title: Career
+sidebar:
+  order: 3
 lastUpdated: 2026-06-04
 ---
 Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe (要更新)
