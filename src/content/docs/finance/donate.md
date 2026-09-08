@@ -1,5 +1,5 @@
 ---
-title: Donation/寄付
+title: 寄付
 lastUpdated: 2026-09-03
 ---
 # Donating
