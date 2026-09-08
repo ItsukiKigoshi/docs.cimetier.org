@@ -296,17 +296,17 @@ San Franciscoにあるインターネットのデータを収蔵している非�
 また，時間があったので[Timetable.icu](https://timetable.icu/)という大学の時間割アプリを友人のために作った．バイブコーディングとは言えないだろうがGeminiと対話しながら技術選定やコード執筆を行った初めての経験だった．結局デバッグなどの地味な作業に一番時間がかかるのは手書きと一緒だが，話し相手がいるので深夜でもずっと楽しくコードを書いていた．Astroを含めCloudflareに全て振った構成も，個人開発でないと挑戦できなかったであろうからとても良い経験になった．macOSからLinuxに切り替えたのもこの開発がきっかけだった．
 
 Berkeleyが辛くて一旦アカデミアと距離を置きたいと思って今夏の山小屋バイトに応募したのもこの時期だった．
-![](../../../assets/2025-berkeley/squirrel.webp)
+![Squirrel](../../../assets/2025-berkeley/squirrel.webp)
 *キャンパス中にいるリス*
 
 それから，Social Media断ちについても書いておかなければならない．まず，日本にまだいる間に部活動の後輩に恋をして結果振られるのだがちょっとその辺りで恋愛に限らない人間関係のいざこざに巻き込まれそうになったので思い切ってLINEを辞めた．また，アメリカにいる間に見すぎていけないと思いX, Reddit, Quora, Facebook辺りを辞め，日本帰国直前に，自身が見ていて幸せになっていないと感じ（特にExploreタブがReelsで埋め尽くされたあたりから）Instagramも辞めた．軋轢も生んだし簡単に会えない/連絡を取れない人が何人か（中学時代の同級生で話の合った小倉とか，小学生の時の初恋の濱野とか）生まれてしまったが，それでもなんやかんやで連絡手段はあるし，何よりもすっきりした．
 
 それからずっと使っている祖父の形見のMacBook Proではさすがに限界が見えてきたので，春学期になってからFedora Linux使いになった．これは以下のZenn記事（[『MacBook Pro (Mid 2014)でFedora Linuxをデュアルブートしよう』](https://zenn.dev/itsukikigoshi/articles/fedora-macbook)）に詳しい．
-![](../../../assets/2025-berkeley/strada.webp)
+![Cafe Strada](../../../assets/2025-berkeley/strada.webp)
 *Cafe Strada*
 
 あとは，留学生活の後半になって財務的な見通しが立ったことで外食などの楽しみも得られるようになってきた．Impression of Lanzhouという中国料理と，La Crêpe à Moiというクレープやさんに特に行きつけになり，寮以外でご飯を食べたくなった時によく利用していた．それから，日曜日に課題の提出が重なることが多く，その提出のために近くのコンビニでコカコーラの小さい缶を買って氷を入れて飲むのが最高に美味しく数少ない楽しみだった．こんな調子だったので，この時期はとても太っていた．
-![](../../../assets/2025-berkeley/bao.webp)
+![Bao](../../../assets/2025-berkeley/bao.webp)
 *Bao*
 ![The last room in Cloyne](../../../assets/2025-berkeley/last-room.webp)
 *最後に生活していた1人部屋*
@@ -338,9 +338,9 @@ Berkeleyが辛くて一旦アカデミアと距離を置きたいと思って今
 	- 一人で外に出てきて，安定した基盤がなくて足がつかなかった感覚がある．
 - 他人の名前を覚えるのは本当に大事．名前を覚えているだけで友達になれる．
 - 自分に余裕がないと（学校に行けず成績も取れない等），心の底から目の前の出来事を楽しめなかったのが悲しい．どこかで自分がずっと疲れていて，本当は心の底から楽しむべきことが楽しめなかった．
-![](../../../assets/2025-berkeley/cloyne2.webp)
+![Cloyne Kithen 1](../../../assets/2025-berkeley/cloyne2.webp)
 *寮の調理場1*
-![](../../../assets/2025-berkeley/cloyne-kitchen.webp)
+![[Cloyne Kithen 2](../../../assets/2025-berkeley/cloyne-kitchen.webp)
 *寮の調理場2*
 ### 習慣
 #### 続けていたこと
