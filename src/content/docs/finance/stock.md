@@ -9,7 +9,10 @@ lastUpdated: 2026-09-03
 * Subaru
 * Sony
 * Fujifilm
+* 川崎重工業
+* カシオ計算機
+
 ## Wanna Have
 * Cloudflare
-* カシオ計算機
+* Disney
 * シマノ
