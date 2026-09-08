@@ -3,12 +3,14 @@ title: Career
 lastUpdated: 2026-06-04
 ---
 Core Value: Make Education, Natural Environment, Healthcare Widely Accessible Across the Globe (要更新)
-# Cluster 0 (Grad. School) / 大学院
+
+# Future
+## Cluster 0 (Grad. School) / 大学院
 value: 学び足りることはない
 - [MIT Media Lab](https://www.media.mit.edu)    
 - [OIST](https://www.oist.jp)
 - 天文系の大学院?
-# Cluster 1 (First Career) / はじめの一歩
+## Cluster 1 (First Career) / はじめの一歩
 value: 小さなことからコツコツと
 - [YAMAP](https://corporate.yamap.co.jp)
 - [天地人](https://tenchijin.co.jp/)
@@ -27,7 +29,7 @@ value: 小さなことからコツコツと
 	- Roland
 	- ヤマハ発動機
 	- 昔のSony
-# Cluster 2 (Mid Career) / 行きたいところ
+## Cluster 2 (Mid Career) / 行きたいところ
 value: とりあえず大風呂敷を広げてみる
 - [Médecins Sans Frontières](https://www.msf.org)
 - [Red Cross/Crescent](https://www.icrc.org/en)
@@ -41,8 +43,11 @@ value: とりあえず大風呂敷を広げてみる
 - [GovTech Tokyo](https://www.govtechtokyo.or.jp)
 - [Centre Pompidou](https://www.centrepompidou.fr/fr/)
 - Raise Children with Books and the Nature, Free from 喧噪 of Cities, TVs, the Internets
-# Cluster 3 (Later Career)
+## Cluster 3 (Later Career)
 value: 次代に繋げる, 時代を繋げる
 - Researcher/Professor at Higehr Educational Institutes
 - Education to Children taken place in a Forest
 - Construct Public Library, Museum (doesn't have to be physical)
+
+# Past
+<!-- To be Added -->

@@ -1,5 +1,5 @@
 ---
-title: 留学総括 (Berkeley 2025-6)
+title: 留学総括 (Berkeley 2025)
 draft: true
 lastUpdated: 2026-09-08
 ---
@@ -19,6 +19,8 @@ lastUpdated: 2026-09-08
     - [ ] 上田
     - [ ] つじゆりか
     - [ ] Chaemin
+- [ ] 写真を追加
+    - [ ] WebP化
 - [ ] Astro Starlightの使い方を調べる
     - [ ] 内部リンク
     - [ ] ファイルの添付方法
