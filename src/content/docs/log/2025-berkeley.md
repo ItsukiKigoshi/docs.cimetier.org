@@ -100,8 +100,9 @@ lastUpdated: 2026-09-08
 前述したように寮の部屋をほとんど出なくなってからも，そのような引きこもりではいけないと思い，しばしばメールで届いていた部活動に関する案内で惹かれた部活のTrip/Eventに参加したり，ひとりでふらっと小旅行に出たりしていた．もちろん，引きこもる前からも．
 ##### 寮のハイキング (Sat, August 30, 2025)
 寮（Cloyne Court）のみんなでFire Trailを歩いた．
-![](../../../assets/2025-berkeley/fire-trail.webp)
-![Berkeley](../../../assets/2025-berkeley/berkeley.JPG)
+![Fire Trail](../../../assets/2025-berkeley/fire-trail.webp)
+![Berkeley](../../../assets/2025-berkeley/berkeley.jpg)
+
 ##### サンフランシスコ（Sun, August 31, 2025）
 おそらく渡航後，空港からの通過を除いて始めてサンフランシスコに行った．
 ![San Francisco](../../../assets/2025-berkeley/sf.jpg)
