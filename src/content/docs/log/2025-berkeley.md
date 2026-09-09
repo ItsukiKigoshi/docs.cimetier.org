@@ -340,7 +340,7 @@ Berkeleyが辛くて一旦アカデミアと距離を置きたいと思って今
 - 自分に余裕がないと（学校に行けず成績も取れない等），心の底から目の前の出来事を楽しめなかったのが悲しい．どこかで自分がずっと疲れていて，本当は心の底から楽しむべきことが楽しめなかった．
 ![Cloyne Kithen 1](../../../assets/2025-berkeley/cloyne2.webp)
 *寮の調理場1*
-![[Cloyne Kithen 2](../../../assets/2025-berkeley/cloyne-kitchen.webp)
+![Cloyne Kithen 2](../../../assets/2025-berkeley/cloyne-kitchen.webp)
 *寮の調理場2*
 ### 習慣
 #### 続けていたこと
@@ -370,7 +370,7 @@ Berkeleyが辛くて一旦アカデミアと距離を置きたいと思って今
 - **本を読む**
   - 日本に帰ってきて日本語の本がいっぱいある．本を読まなければ．
 
-![](../../../assets/2025-berkeley/cloyne3.webp)
+![Eating in the Cloyne Yard](../../../assets/2025-berkeley/cloyne3.webp)
 *寮での一コマ*
 
 #### 雑多な気づき
