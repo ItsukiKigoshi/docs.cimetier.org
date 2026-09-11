@@ -6,6 +6,7 @@ lastUpdated: 2026-09-08
 
 <!--
 # TODOs
+- [ ]  Add Visaに関する記述
 - [ ] 大学と奨学金に提出した文書を確認し，適宜この文書に補う
     - [ ] ICU: 志望理由
     - [ ] UC: 志望理由
@@ -222,7 +223,7 @@ MITからバスで数十分の場所だったと思う．歴史ある感じの�
 
 #### Amtrak (January 13-16, 2026)
 Amtrakに乗ってみたかったので，Boston → Chicago → Sacramento → Berkeleyと東から西までAmtrakの大陸横断鉄道で移動した．
-正直4日間Coachシートは辛かったが，ロッキー山脈やデスバレー（多分）のアメリカらしい風景を観られたり，はじめは雪だったのがだんだん暖かくなっていく国土の広さを感じられる良い旅だった．もう少しお金を貯めて将来のパートナーとでも別のルートをやりたい．
+正直4日間Coachシートは辛かったが，ロッキー山脈やデスバレー（多分）のアメリカらしい風景を観られたり，はじめは雪だったのがだんだん暖かくなっていく国土の広さを感じられる良い旅だった．もう少しお金を貯めて将来のパートナーとでも別のルートを寝台車でやりたい．
 ![Bostonの駅](../../../assets/2025-berkeley/amtrack1.webp)
 *Bostonの駅*
 ![Chicago Pizza](../../../assets/2025-berkeley/amtrack2.webp)
@@ -301,7 +302,7 @@ Berkeleyが辛くて一旦アカデミアと距離を置きたいと思って今
 
 それから，Social Media断ちについても書いておかなければならない．まず，日本にまだいる間に部活動の後輩に恋をして結果振られるのだがちょっとその辺りで恋愛に限らない人間関係のいざこざに巻き込まれそうになったので思い切ってLINEを辞めた．また，アメリカにいる間に見すぎていけないと思いX, Reddit, Quora, Facebook辺りを辞め，日本帰国直前に，自身が見ていて幸せになっていないと感じ（特にExploreタブがReelsで埋め尽くされたあたりから）Instagramも辞めた．軋轢も生んだし簡単に会えない/連絡を取れない人が何人か（中学時代の同級生で話の合った小倉とか，小学生の時の初恋の濱野とか）生まれてしまったが，それでもなんやかんやで連絡手段はあるし，何よりもすっきりした．
 
-それからずっと使っている祖父の形見のMacBook Proではさすがに限界が見えてきたので，春学期になってからFedora Linux使いになった．これは以下のZenn記事（[『MacBook Pro (Mid 2014)でFedora Linuxをデュアルブートしよう』](https://zenn.dev/itsukikigoshi/articles/fedora-macbook)）に詳しい．
+さらに，ずっと使っている祖父の形見のMacBook ProをmacOSで使うのにはさすがに限界が見えてきたので，Fedora Linux使いになったのも春学期になってからだった．これは以下のZenn記事（[『MacBook Pro (Mid 2014)でFedora Linuxをデュアルブートしよう』](https://zenn.dev/itsukikigoshi/articles/fedora-macbook)）に詳しい．
 ![Cafe Strada](../../../assets/2025-berkeley/strada.webp)
 *Cafe Strada*
 
