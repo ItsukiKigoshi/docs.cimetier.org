@@ -15,7 +15,7 @@ lastUpdated: 2026-09-08
 -->
 
 
-![Golden Gate Bridge](../../../assets/2025-berkeley/golden-gate-bridge.jpg)
+![Golden Gate Bridge](../../../assets/2025-berkeley/golden-gate-bridge.webp)
 ## 概要
 2025年8月から2026年5月まで，私が在籍している国際基督教大学（ICU）の交換留学生として米国カリフォルニア州はUniversity of California, Berkeleyに留学した．この文書は，大枠としてはその留学にかかる自身の経験をまとめるとともに，細かな気づきを私的に記述するものである．
 あくまでも私的な記録が目的であるためすべて赤裸々に書き綴るのであるが，写真の掲載や個々の人物/出来事に対する言及の掲出停止を望む場合は[itsukikigoshi@gmail.com](mailto:itsukikigoshi@gmail.com)までご連絡頂きますようお願いします．
@@ -95,11 +95,11 @@ lastUpdated: 2026-09-08
 ##### 寮のハイキング (Sat, August 30, 2025)
 寮（Cloyne Court）のみんなでFire Trailを歩いた．
 ![Fire Trail](../../../assets/2025-berkeley/fire-trail.webp)
-![Berkeley](../../../assets/2025-berkeley/berkeley.jpg)
+![Berkeley](../../../assets/2025-berkeley/berkeley.webp)
 
 ##### サンフランシスコ（Sun, August 31, 2025）
 おそらく渡航後，空港からの通過を除いて始めてサンフランシスコに行った．
-![San Francisco](../../../assets/2025-berkeley/sf.jpg)
+![San Francisco](../../../assets/2025-berkeley/sf.webp)
 
 Waymoタクシーが普通に走っている景色．
 ![Waymo](../../../assets/2025-berkeley/waymo.webp)
