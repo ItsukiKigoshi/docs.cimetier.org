@@ -5,7 +5,7 @@ sidebar:
   order: 1
 lastUpdated: 2026-05-25
 ---
-
+- I'm **木越 斎  (きごし いつき)** / **Itsuki "Cimetier" Kigoshi**.
 - I was born in **25 Sep, 2004** in Ube, Yamaguchi. Japan
 - I'm a senior (4 ねんせい) student at **International Christian University** (Tokyo, Japan), majoring in **statistics** (とーけーがく).
 ## Languages
