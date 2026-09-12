@@ -8,8 +8,8 @@ lastUpdated: 2026-05-25
 - [木村拓哉](https://www.youtube.com/@takuya.kimura.official)
 - [ぜうん](https://www.youtube.com/channel/UCiUH11FEQ-D37ubOPB6-Suw)
 - [あのちゅーる](https://www.youtube.com/@anochuru)
-- [dina's film diary](https://www.youtube.com/@dinayamazaki):
-- [NEVER TOO SMALL](https://www.youtube.com/@nevertoosmall) 
+- [dina's film diary](https://www.youtube.com/@dinayamazaki)
+- [NEVER TOO SMALL](https://www.youtube.com/@nevertoosmall)
 	- [Masato Igarashi](https://www.youtube.com/watch?v=x9M7ghTPaaU)
 - [乃木坂配信中](https://www.youtube.com/@nogizakahaishinchu)
 - [好き語り](https://www.youtube.com/@sukigatari)
