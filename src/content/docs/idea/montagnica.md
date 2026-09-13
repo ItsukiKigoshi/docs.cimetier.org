@@ -1,5 +1,5 @@
 ---
-title: locasequencer
+title: Montagnica
 lastUpdated: 2026-05-25
 ---
 - 個展に訪れた参加者が会場から離れた距離と方向を組み合わせて, 放射状の線分から音楽が生成される.  
