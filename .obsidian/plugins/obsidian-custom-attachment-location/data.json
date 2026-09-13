@@ -13,7 +13,7 @@
   "excludePathsFromAttachmentCollecting": [],
   "excludePathsFromMultipleNotesCheck": [],
   "generatedAttachmentFileName": "file-${date:{momentJsFormat:'YYYYMMDDHHmmssSSS'}}",
-  "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": false,
+  "isAdvancedRenameAndDeleteHandlerSuggestionDeclined": true,
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
