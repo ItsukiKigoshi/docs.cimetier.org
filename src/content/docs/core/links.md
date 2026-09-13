@@ -19,14 +19,18 @@ https://cimetier.org/
 - [RateYourMusic](https://rateyourmusic.com/~itsukikigoshi)
 - [YAMAP](https://yamap.com/users/3971974)
 
+## Contribution
+- [Wikipedia](https://ja.wikipedia.org/wiki/user:ItsukiKigoshi)
+
 ## Communication/Social Media
 - Email: [itsukikigoshi_at_gmail.com](mailto:itsukikigoshi@gmail.com) ([GPG Key](https://cimetier.org/itsukikigoshi.asc))
 - Discord: @itsukikigoshi
+- [LinkedIn](https://www.linkedin.com/in/itsukikigoshi)
 
 ### Just Fed Up with...
 *走馬灯にReelsなんて，そんな人生を誰が望む？*
 - Instagram: deleted
-- Twitter:deleted
+- Twitter: deleted
 - Facebook: deleted
 - LINE: deleted
 - WhatsApp: deleted
