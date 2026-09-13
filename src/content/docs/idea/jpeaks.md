@@ -25,3 +25,4 @@ lastUpdated: 2026-09-12
   - Trip.com/食べログ/TripAdvisor: まずレビューで予約を取りにいく
 - TripAdvisorのように「言ってみたい山小屋Award」ろつくる
 - 登山道の雪解け状況
+- とにかくUIを磨く，自然と調和するUI言語を作る
