@@ -3,7 +3,7 @@ title: 青嵐文庫
 description: "青嵐: 青空の下に吹き抜ける一陣の山気"
 lastUpdated: 2026-05-25
 ---
-Aoarash.org / Seiran.org
+Aoarashi.org / Seiran.org
 > *青嵐: 青空の下に吹き抜ける一陣の山気．*
 
 - デジタル文書化された国立国会図書館のIIIF API等を用いて，NDL-OCR+人間による修正とGitのようなバージョン管理でつくるクラウドソーシングな次世代の青空文庫．
