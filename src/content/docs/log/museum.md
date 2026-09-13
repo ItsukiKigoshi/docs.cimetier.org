@@ -6,9 +6,10 @@ lastUpdated: 2026-05-25
 ### 5/20
 - Hawaii NOAA
 
-### 5/ ?
+### 5/8 with Jin
 - Legion of Honor
 - de Young
+- Internet Archive
 
 ### 1/12
 
