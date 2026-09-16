@@ -59,6 +59,7 @@ lastUpdated: 2026-09-16
 - [ ] 友人が書いた小説の帯を書く
 - [ ] 会社をつくる
 - [ ] 子どもを育てる
+  - [ ] Raise Children with Books and the Nature, Free from 喧噪 of Cities, TVs, the Internets
 - [ ] スカイダイビング
 - [ ] スノーボード
 - [ ] カラーフィルム現像
@@ -67,6 +68,8 @@ lastUpdated: 2026-09-16
   - [ ] 大学生のうちにプロポーザルを出す
 - [ ] 陶芸
 	- [ ] 金継ぎ
+- [ ] Establish Public Library
+- [ ] Establish Contemporary Museum
 # なる/Be
 - [ ] 一番好きな人の一番好きな人になる
 - [ ] 誰かのロールモデルになる
