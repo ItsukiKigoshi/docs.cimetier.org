@@ -2,6 +2,7 @@
 title: 出版社
 lastUpdated: 2026-06-04
 ---
+好きな出版社/シリーズたち😘
 - [技術評論社](https://gihyo.jp/book/)
 - [みすず書房](https://www.msz.co.jp)
 - [筑摩書房](https://www.chikumashobo.co.jp)   
