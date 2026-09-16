@@ -1,7 +1,7 @@
 ---
 title: 留学総括 (Berkeley, 2025)
 description: "2025年から翌年にかけてBerkeley, California, USに留学したときの記録．"
-lastUpdated: 2026-09-08
+lastUpdated: 2026-09-13
 ---
 
 <!--
