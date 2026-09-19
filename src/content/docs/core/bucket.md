@@ -13,7 +13,7 @@ lastUpdated: 2026-09-16
 - [ ] 鳥取砂丘
 - [ ] 屋久島
 - [ ] 沖縄
-  - [ ] 普天間航空基地
+	- [ ] 普天間航空基地
 - [ ] Geo Gravity Park Chichibu
 - [ ] かつおのたたき@高知
 - [ ] さぐらだふぁみりあ
@@ -49,7 +49,7 @@ lastUpdated: 2026-09-16
 - [ ] 自動二輪に乗る
 - [ ] 個展を開く
 - [ ] 外岩でロープクライミング
-  - [ ] 屏風岩Trad Climbing
+	- [ ] 屏風岩Trad Climbing
 - [x] ソロ登山
 - [ ] ソロロープクライミング
 - [ ] ソロ雪山
@@ -59,7 +59,7 @@ lastUpdated: 2026-09-16
 - [ ] 友人が書いた小説の帯を書く
 - [ ] 会社をつくる
 - [ ] 子どもを育てる
-  - [ ] Raise Children with Books and the Nature, Free from 喧噪 of Cities, TVs, the Internets
+	- [ ] Raise Children with Books and the Nature, Free from 喧噪 of Cities, TVs, the Internets
 - [ ] スカイダイビング
 - [ ] スノーボード
 - [ ] カラーフィルム現像
