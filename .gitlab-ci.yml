@@ -9,6 +9,7 @@ pages:
       - node_modules/
 
   script:
+    - apt-get update && apt-get install -y git
     - bun install --frozen-lockfile
     - bun run build
     - rm -rf public
