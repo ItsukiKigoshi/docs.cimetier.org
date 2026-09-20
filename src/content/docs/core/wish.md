@@ -1,7 +1,7 @@
 ---
 title: Wishlist
-lastUpdated: 2026-09-19
 draft: true
 ---
-- [ ] 
-- クライミング関連: [climbing](../../life/climbing)
+- [ ] 1人用ゴールドフィルター?
+- [ ] ネックレスチェーン
+- クライミング関連: [🧗🏼‍♀️Climbing Up Gradually](../../life/climbing)
