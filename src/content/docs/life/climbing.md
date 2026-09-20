@@ -1,31 +1,59 @@
 ---
 title: 🧗🏼‍♀️Climbing Up Gradually
-lastUpdated: 2026-09-19
 ---
 ## どーぐ
 ### Mountaineering
-- [ ]  充電式ヘッドランプ
+- [ ] 充電式ヘッドランプ
 - [ ] テント用ランタン
 - [ ] 中ザックカバー
 - [ ] Cooking Goods
 	- [ ] 大クッカー
 	- [ ] 包丁
 	- [ ] まな板
+- [ ] ガス缶
+- [ ] (ULシュラフ)
+  - [ ] [HELIUM BIVY 2.0](https://outdoorresearch.jp/featured/heliumbivy/)
 ### Sport Climbing
 - [x] はーねす
 - [x] ATC/るべるそ
 - [x] クライミングシューズ
+- [x] チョークバッグ
+  - [ ] チョーク（どっかいった？）
+- [x] カラビナx1
+- [x] 歯ブラシ
 - [ ] ロープ x2?
+  - [ ] どれを買えば...
+  - [ ] [PETZL](https://www.petzl.co.jp/sport/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%AD%E3%83%BC%E3%83%97/)
 - [ ] Quick-draws x10くらい?
-- [ ] ポジショニングランヤード
+  - [ ] [BlackDiamond ホットフォージハイブリッド クイックパック](https://www.kamoshikasports.com/product/5621) 15,000¥ for x6
+- [ ] ランヤード/パーソナルアンカー: セルフビレイ用
 	- [ ] [Petzl コネクト アジャスト](https://www.petzl.co.jp/sport/connect-adjust-2/): 10,120¥
+	- [ ] [BlackDiamond リンクパーソナルアンカーシステム](https://www.kamoshikasports.com/product/256): 6,930¥
+- [ ] スリング
+  - [ ] [BlackDiamond 10mm ダイネックスランナー](https://www.kamoshikasports.com/product/984): 1,320¥-4,620c
 - [ ] ギアラック?
-- [ ] ディッセンダー?
-- [ ] カム（if necessary）x15くらい?
+- [ ] カム/ナッツ（if necessary）x15くらい?
+## Ice Climbing
+- [ ] ピッケル
+  - [ ] [BlackDiamond ベノムLTクラシック (45cm)](https://www.kamoshikasports.com/product/5376): 24,200¥
+  - [ ] [アイスアックス・ピッケル - カモシカオンラインショップ](https://www.kamoshikasports.com/product-list/98/0/photo?sub=99&num=60&sort=&Submit=1)
+- [x] 冬靴
+- [ ] アイゼン
+  - [ ] 必ず一度自分の靴に装用してから購入
+  - [ ] [GRIVEL G12 EVO オーマチック SP](https://www.kamoshikasports.com/product/718): 32,450¥
+- [ ] スノーシュー・わかん
+  - [ ] [MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥
+    - [ ] 必ず一度自分の靴に装用してから購入
+  - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): 19,800¥
 ### Gear Repair
 - [ ] コンパス
 - [ ] テント穴塞ぎ
+	- [ ] ホースを使って庭で耐水試験
 - [ ] カラサワペンダント
+### Insurance
+アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
+- [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): 5,800¥/Year
+- [ ] [やまきふエキスパート](https://www.yamakifu.or.jp/course/member?type=ex): 10,000¥/Year
 ---
 ## Steps
 - Single Pitch
