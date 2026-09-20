@@ -42,8 +42,8 @@ title: 🧗🏼‍♀️Climbing Up Gradually
   - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] [GRIVEL G12 EVO オーマチック SP](https://www.kamoshikasports.com/product/718): 32,450¥
 - [ ] スノーシュー・わかん
+  - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] [MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥
-    - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): 19,800¥
 ### Gear Repair
 - [ ] コンパス
