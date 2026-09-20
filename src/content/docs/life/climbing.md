@@ -6,6 +6,7 @@ lastUpdated: 2026-09-19
 ### Mountaineering
 - [ ]  充電式ヘッドランプ
 - [ ] テント用ランタン
+- [ ] 中ザックカバー
 - [ ] Cooking Goods
 	- [ ] 大クッカー
 	- [ ] 包丁
