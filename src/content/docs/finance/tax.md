@@ -2,6 +2,11 @@
 title: 税金・扶養関係覚書
 lastUpdated: 2026-09-03
 ---
+## 2026
+- **所得税**
+  - [勤労学生控除](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1175.htm): 合計所得金額が85万円以下の場合，控除額27万円
+  - [給与所得控除](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1410.htm): 74万円
+  - roughly 課税対象の所得=(130-85)-74 < 0だからおそらく所得税は非課税
 - **文部科学省共済組合**
   - 23歳未満なら150万円未満の定常収入で扶養者（[文部科学省共済組合 | 被扶養者](https://www.monkakyosai.or.jp/shikumi/04.html)）
   - 超過の場合，小金井市の国民健康保険税が（所得-43万円）*10%（[国民健康保険税の税率及び計算方法：小金井市公式WEBへようこそ](https://www.city.koganei.lg.jp/kurashi/427/kokuhozei/hokenzei_keisan.html)）
