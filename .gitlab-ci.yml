@@ -1,5 +1,8 @@
 image: oven/bun:1
 
+variables:
+  GIT_DEPTH: 0 # Clone the entire repository for lastUpdated
+
 pages:
   cache:
     paths:
