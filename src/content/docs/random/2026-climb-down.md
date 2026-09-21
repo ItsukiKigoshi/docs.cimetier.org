@@ -24,6 +24,7 @@ title: 2026下山後にやること
 	- [ ] CERN?
 - [ ] KR
 - [ ] 沖縄: OIST
+- [ ] 東南アジア; すばると?
 
 ## Certificate
 - [ ] [中/大型二輪](https://musasisakai-ds.co.jp/web-contact/)
