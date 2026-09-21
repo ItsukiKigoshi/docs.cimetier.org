@@ -11,6 +11,8 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 	- [ ] 包丁
 	- [ ] まな板
 - [ ] ガス缶
+- [ ] テントライト?吊れるやつ
+- [ ] 充電式ヘッドランプ?
 - [ ] (ULシュラフ)
   - [ ] [HELIUM BIVY 2.0](https://outdoorresearch.jp/featured/heliumbivy/)
 ### Sport Climbing
