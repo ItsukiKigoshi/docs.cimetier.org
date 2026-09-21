@@ -34,10 +34,12 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] ギアラック?
 - [ ] カム/ナッツ（if necessary）x15くらい?
 ## Ice Climbing
+- [x] 冬靴
+- [x] グローブ
+  - [ ] インナーグローブ?
 - [ ] ピッケル
   - [ ] [BlackDiamond ベノムLTクラシック (45cm)](https://www.kamoshikasports.com/product/5376): 24,200¥
   - [ ] [アイスアックス・ピッケル - カモシカオンラインショップ](https://www.kamoshikasports.com/product-list/98/0/photo?sub=99&num=60&sort=&Submit=1)
-- [x] 冬靴
 - [ ] アイゼン
   - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] [GRIVEL G12 EVO オーマチック SP](https://www.kamoshikasports.com/product/718): 32,450¥
@@ -45,11 +47,21 @@ title: 🧗🏼‍♀️Climbing Up Gradually
   - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] [MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥
   - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): 19,800¥
+- [ ] ビーコン
+  - [ ] [MAMMUT Barryvox 2](https://www.mammut.jp/items/2620-00370): 57,200¥
+- [ ] プローブ
+  - [ ] [Black Diamond クイックドロー プロプローブ240](https://shop.moderateweb.com/products/rc_itwn7j3n6p6c_tsvp): 11,000¥
+- [ ] ショベル
+  - [ ] [Black Diamond ディプロイショベル](https://www.bluesheep.co.jp/store/g/gBD42505/): 14,300¥
+- [ ] 竹ペグ？
 ### Gear Repair
 - [ ] コンパス
 - [ ] テント穴塞ぎ
 	- [ ] ホースを使って庭で耐水試験
 - [ ] カラサワペンダント
+### Gear Care
+- [ ] シュラフ洗う
+- [ ] レイン洗う（上・下）
 ### Insurance
 アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
 - [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): 5,800¥/Year
