@@ -8,7 +8,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - 特に冬/クライミング道具は中古で値段を抑えられる余地がある
 
 ### Mountaineering
-50,000¥
+小計50,000¥
 - [ ] テント用ランタン
   - [ ] [CARRY THE SUN: Medium Warm Light](https://carrythesun.jp/products/medium-warm-light-white): **4,800¥**
 - [ ] Cooking Goods
@@ -51,15 +51,17 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [x] グローブ
   - [ ] インナーグローブ?
 - [ ] ピッケル
-  - [ ] [BlackDiamond ベノムLTクラシック (45cm)](https://www.kamoshikasports.com/product/5376): **24,200¥**
+  - [ ] [PETZL　SUMMIT](https://www.maunga.jp/?pid=193271885): **15,480¥**
+  - [ ] [BlackDiamond ベノムLTクラシック (45cm)](https://www.kamoshikasports.com/product/5376): 24,200¥
   - [ ] [アイスアックス・ピッケル - カモシカオンラインショップ](https://www.kamoshikasports.com/product-list/98/0/photo?sub=99&num=60&sort=&Submit=1)
 - [ ] アイゼン
   - [ ] 必ず一度自分の靴に装用してから購入
-  - [ ] [GRIVEL G12 EVO オーマチック SP](https://www.kamoshikasports.com/product/718): **32,450¥**
+  - [ ] [Black Diamond　Contact Strap (中古)](https://www.maunga.jp/?pid=193593192): **9,980¥**
+  - [ ] [GRIVEL G12 EVO オーマチック SP](https://www.kamoshikasports.com/product/718): 32,450¥
 - [ ] スノーシュー・わかん
   - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] ([MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥)
-  - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): **19,800¥**
+  - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): **9,980¥**
 - [ ] ビーコン
   - [ ] [MAMMUT Barryvox 2](https://www.mammut.jp/items/2620-00370): **57,200¥**
   - [ ] 中古を探そう
@@ -72,6 +74,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] コンパス
 - [ ] テント穴塞ぎ
 	- [ ] ホースを使って庭で耐水試験
+	- [ ] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥**x2くらい?
 - [ ] カラサワペンダント
 ### Gear Care
 - [ ] シュラフ洗う
