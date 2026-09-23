@@ -3,20 +3,28 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 ---
 ## どーぐ
 2026年予算: 200,000¥
+
 総計: 243,950¥; これ全部は無理だ
+
 ### Mountaineering
 50,000¥
-- [ ] 充電式ヘッドランプ
 - [ ] テント用ランタン
+  - [ ] [CARRY THE SUN: Medium Warm Light](https://carrythesun.jp/products/medium-warm-light-white): **4,800¥**
 - [ ] Cooking Goods
-	- [ ] 大クッカー
-	- [ ] 包丁
-	- [ ] まな板
+	- [ ] 大クッカー: **~7,000¥?**
+	- [ ] Snow Peakマナイタセット M: **¥5,720**
+   	- [ ] 包丁
+   	- [ ] まな板
 - [ ] ガス缶
+  - [ ] ￥583x2: [PRIMUS IP-110](https://www.yodobashi.com/product/100000001001803796/)
 - [ ] (ULシュラフ)
   - [ ] [HELIUM BIVY 2.0](https://outdoorresearch.jp/featured/heliumbivy/)
+- [ ] ~~充電式ヘッドランプ~~: 優先度低し
+  - [ ] ~~BlackDiamond スポット 400: 8,470¥~~
+  - [ ] ~~BD1500 (Battery): 3,410¥~~
+  - [ ] \[要確認\]今のヘッドランプにも充電池を入れて使用できる？
 ### Sport Climbing
-小計35,000¥
+小計50,200¥
 - [x] はーねす
 - [x] ATC/るべるそ
 - [x] クライミングシューズ
@@ -25,15 +33,15 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [x] カラビナx1
 - [x] 歯ブラシ
 - [ ] ロープ x2?
-  - [ ] どれを買えば...
-  - [ ] [PETZL](https://www.petzl.co.jp/sport/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%AD%E3%83%BC%E3%83%97/)
+  - [ ] どれを買えば... (e.g. [PETZL](https://www.petzl.co.jp/sport/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%AD%E3%83%BC%E3%83%97/))
+  - [ ] [PETZL ルンバ 8mm (50m)](https://www.petzl.co.jp/sport/%E3%83%AB%E3%83%B3%E3%83%90-8-0mm/): **23,650¥**
 - [ ] Quick-draws x10くらい?
-  - [ ] [BlackDiamond ホットフォージハイブリッド クイックパック](https://www.kamoshikasports.com/product/5621) 15,000¥ for x6
+  - [ ] [BlackDiamond ホットフォージハイブリッド クイックパック](https://www.kamoshikasports.com/product/5621) **15,000¥** for x6
 - [ ] ランヤード/パーソナルアンカー: セルフビレイ用
 	- [ ] [Petzl コネクト アジャスト](https://www.petzl.co.jp/sport/connect-adjust-2/): 10,120¥
-	- [ ] [BlackDiamond リンクパーソナルアンカーシステム](https://www.kamoshikasports.com/product/256): 6,930¥
+	- [ ] [BlackDiamond リンクパーソナルアンカーシステム](https://www.kamoshikasports.com/product/256): **6,930¥**
 - [ ] スリング
-  - [ ] [BlackDiamond 10mm ダイネックスランナー](https://www.kamoshikasports.com/product/984): 1,320¥-4,620¥
+  - [ ] [BlackDiamond 10mm ダイネックスランナー](https://www.kamoshikasports.com/product/984): 1,320¥-**4,620¥**
 - [ ] ギアラック?
 - [ ] カム/ナッツ（if necessary）x15くらい?
 ## Ice Climbing
@@ -50,13 +58,14 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] スノーシュー・わかん
   - [ ] 必ず一度自分の靴に装用してから購入
   - [ ] ([MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥)
-  - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): 19,800¥
+  - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): **19,800¥**
 - [ ] ビーコン
   - [ ] [MAMMUT Barryvox 2](https://www.mammut.jp/items/2620-00370): 57,200¥
+  - [ ] 中古を探そう
 - [ ] プローブ
-  - [ ] [Black Diamond クイックドロー プロプローブ240](https://shop.moderateweb.com/products/rc_itwn7j3n6p6c_tsvp): 11,000¥
+  - [ ] [Black Diamond クイックドロー プロプローブ240](https://shop.moderateweb.com/products/rc_itwn7j3n6p6c_tsvp): **11,000¥**
 - [ ] ショベル
-  - [ ] [Black Diamond ディプロイショベル](https://www.bluesheep.co.jp/store/g/gBD42505/): 14,300¥
+  - [ ] [Black Diamond ディプロイショベル](https://www.bluesheep.co.jp/store/g/gBD42505/): **14,300¥**
 - [ ] 竹ペグ？
 ### Gear Repair
 - [ ] コンパス
@@ -69,7 +78,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 ### Insurance
 小計5800¥
 アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
-- [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): 5,800¥/Year
+- [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): **5,800¥/Year**
 - [ ] [やまきふエキスパート](https://www.yamakifu.or.jp/course/member?type=ex): 10,000¥/Year
 ---
 ## Steps
