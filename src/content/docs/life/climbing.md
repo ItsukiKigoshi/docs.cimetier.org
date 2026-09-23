@@ -2,20 +2,21 @@
 title: 🧗🏼‍♀️Climbing Up Gradually
 ---
 ## どーぐ
+2026年予算: 200,000¥
+総計: 243,950¥; これ全部は無理だ
 ### Mountaineering
+50,000¥
 - [ ] 充電式ヘッドランプ
 - [ ] テント用ランタン
-- [ ] 中ザックカバー
 - [ ] Cooking Goods
 	- [ ] 大クッカー
 	- [ ] 包丁
 	- [ ] まな板
 - [ ] ガス缶
-- [ ] テントライト?吊れるやつ
-- [ ] 充電式ヘッドランプ?
 - [ ] (ULシュラフ)
   - [ ] [HELIUM BIVY 2.0](https://outdoorresearch.jp/featured/heliumbivy/)
 ### Sport Climbing
+小計35,000¥
 - [x] はーねす
 - [x] ATC/るべるそ
 - [x] クライミングシューズ
@@ -36,6 +37,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] ギアラック?
 - [ ] カム/ナッツ（if necessary）x15くらい?
 ## Ice Climbing
+小計158,950¥
 - [x] 冬靴
 - [x] グローブ
   - [ ] インナーグローブ?
@@ -47,7 +49,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
   - [ ] [GRIVEL G12 EVO オーマチック SP](https://www.kamoshikasports.com/product/718): 32,450¥
 - [ ] スノーシュー・わかん
   - [ ] 必ず一度自分の靴に装用してから購入
-  - [ ] [MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥
+  - [ ] ([MSR Evo Ascent](https://www.kamoshikasports.com/product/6500): 44,000¥)
   - [ ] [エキスパート・オブ・ジャパン ハイスペック スノーシューズ ベント](https://www.kamoshikasports.com/product/1524): 19,800¥
 - [ ] ビーコン
   - [ ] [MAMMUT Barryvox 2](https://www.mammut.jp/items/2620-00370): 57,200¥
@@ -65,16 +67,15 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] シュラフ洗う
 - [ ] レイン洗う（上・下）
 ### Insurance
+小計5800¥
 アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
 - [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): 5,800¥/Year
 - [ ] [やまきふエキスパート](https://www.yamakifu.or.jp/course/member?type=ex): 10,000¥/Year
 ---
 ## Steps
-- Single Pitch
-- Multi-Pitch
-	- 残置支点: Quickdraw
-		- セルフビレイ: クローブヒッチ？
-		- スリングで支点
-	- Trad: カム&ナッツ
-- アルパインクライミング near 槍ヶ岳?
-	- [https://andblue-kt.com/guide_plan/Alpine](https://andblue-kt.com/guide_plan/Alpine)
+- [x] 室内Boulder
+- [x] 屋外Boulder
+- [x] 室内リード
+- [ ] 屋外リード
+- [ ] 室内トラッド(?)
+- [ ] 屋外トラッド
