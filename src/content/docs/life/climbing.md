@@ -32,7 +32,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 	- [ ] [Petzl コネクト アジャスト](https://www.petzl.co.jp/sport/connect-adjust-2/): 10,120¥
 	- [ ] [BlackDiamond リンクパーソナルアンカーシステム](https://www.kamoshikasports.com/product/256): 6,930¥
 - [ ] スリング
-  - [ ] [BlackDiamond 10mm ダイネックスランナー](https://www.kamoshikasports.com/product/984): 1,320¥-4,620c
+  - [ ] [BlackDiamond 10mm ダイネックスランナー](https://www.kamoshikasports.com/product/984): 1,320¥-4,620¥
 - [ ] ギアラック?
 - [ ] カム/ナッツ（if necessary）x15くらい?
 ## Ice Climbing
