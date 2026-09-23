@@ -12,7 +12,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] テント用ランタン
   - [ ] [CARRY THE SUN: Medium Warm Light](https://carrythesun.jp/products/medium-warm-light-white): **4,800¥**
 - [ ] Cooking Goods
-	- [ ] 大クッカー: **~7,000¥?**
+	- [ ] 大クッカー: **\~7,000¥?**
 	- [ ] Snow Peakマナイタセット M: **¥5,720**
    	- [ ] 包丁
    	- [ ] まな板
