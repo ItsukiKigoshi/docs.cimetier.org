@@ -15,7 +15,7 @@ title: 100万円の使い道
 - [ ] 50,000¥: KR
 - [ ] 100,000¥: 東南アジア when 昴 is there?
 
-小計370,000¥
+小計370,000¥ (圧縮余地あり)
 
 ## License
 - [ ] 103,700¥: [普通二輪MT車](https://musasisakai-ds.co.jp/plan/price/)(400cc以下)
@@ -38,9 +38,9 @@ title: 100万円の使い道
 - [ ] 490¥: [無印良品 ステンレス　コーヒースクープ](https://www.muji.com/jp/ja/store/cmdty/detail/4550344902493)
 - [ ] 2,000¥: イヤホン
 - [ ] クリア財布，カードを傷つけない
-  - [ ] 690¥: [ポリエステルカードケース](https://www.muji.com/jp/ja/store/cmdty/detail/4550584769528)
+  - [ ] 690¥: [無印良品 ポリエステルカードケース](https://www.muji.com/jp/ja/store/cmdty/detail/4550584769528)
 - [ ] 手帳
-  - [ ] 990¥: [バーチカルスケジュール帳](https://www.muji.com/jp/ja/store/cmdty/detail/4550723101868)
+  - [ ] 990¥: [無印良品 バーチカルスケジュール帳](https://www.muji.com/jp/ja/store/cmdty/detail/4550723101868)
 
 小計8,194¥
 
