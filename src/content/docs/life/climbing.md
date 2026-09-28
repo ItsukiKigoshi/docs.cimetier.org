@@ -74,13 +74,14 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] コンパス
 - [ ] テント穴塞ぎ
 	- [ ] ホースを使って庭で耐水試験
-	- [ ] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥**x2くらい?
+	- [ ] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥** x2くらい?
 - [ ] カラサワペンダント
 ### Gear Care
 - [ ] シュラフ洗う
 - [ ] レイン洗う（上・下）
 ### Insurance
 小計5,800¥
+
 アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
 - [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): **5,800¥/Year**
 - [ ] [やまきふエキスパート](https://www.yamakifu.or.jp/course/member?type=ex): 10,000¥/Year
