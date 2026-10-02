@@ -6,12 +6,14 @@ title: 100万円の使い道
 
 ## Climbing
 - [ ] 200,000¥: クライミング関連 ([🧗🏼‍♀️Climbing Up Gradually](../../life/climbing))
+  - もうちょっとあると嬉しい
 
 小計200,000¥
 
 ## Trip
+- [ ] 50,000¥: 長野（想定外の出費）
 - [ ] 20,000¥: 仙台
-- [ ] 200,000¥: Morocco, Paris, Switzerland
+- [ ] 150,000¥: Morocco, Paris, UK, Poland
 - [ ] 50,000¥: KR
 - [ ] 100,000¥: 東南アジア when 昴 is there?
 
@@ -35,12 +37,12 @@ title: 100万円の使い道
 ## 日用品
 - [ ] 1人用ゴールドフィルター?
   - [ ] 3,704¥: [cores 1杯用](https://www.amazon.co.jp/dp/B07X7JRZXS)
-- [ ] 490¥: [無印良品 ステンレス　コーヒースクープ](https://www.muji.com/jp/ja/store/cmdty/detail/4550344902493)
+- [x] 490¥: [無印良品 ステンレス　コーヒースクープ](https://www.muji.com/jp/ja/store/cmdty/detail/4550344902493)
 - [ ] 2,000¥: イヤホン
-- [ ] クリア財布，カードを傷つけない
-  - [ ] 690¥: [無印良品 ポリエステルカードケース](https://www.muji.com/jp/ja/store/cmdty/detail/4550584769528)
+- [x] クリア財布，カードを傷つけない
+  - [x] 690¥: [無印良品 ポリエステルカードケース](https://www.muji.com/jp/ja/store/cmdty/detail/4550584769528)
 - [ ] 手帳
-  - [ ] 990¥: [無印良品 バーチカルスケジュール帳](https://www.muji.com/jp/ja/store/cmdty/detail/4550723101868)
+  - [ ] ~~990¥: [無印良品 バーチカルスケジュール帳](https://www.muji.com/jp/ja/store/cmdty/detail/4550723101868)~~
 
 小計8,194¥
 
