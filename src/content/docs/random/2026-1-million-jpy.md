@@ -42,7 +42,7 @@ title: 100万円の使い道
 - [x] クリア財布，カードを傷つけない
   - [x] 690¥: [無印良品 ポリエステルカードケース](https://www.muji.com/jp/ja/store/cmdty/detail/4550584769528)
 - [ ] 手帳
-  - [ ] ~~990¥: [無印良品 バーチカルスケジュール帳](https://www.muji.com/jp/ja/store/cmdty/detail/4550723101868)~~
+  - [x] ~~990¥: [無印良品 バーチカルスケジュール帳](https://www.muji.com/jp/ja/store/cmdty/detail/4550723101868)~~
 
 小計8,194¥
 
