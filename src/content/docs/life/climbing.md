@@ -77,8 +77,8 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 	- [ ] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥** x2くらい?
 - [ ] カラサワペンダント
 ### Gear Care
-- [ ] シュラフ洗う
-- [ ] レイン洗う（上・下）
+- [x] シュラフ洗う
+- [x] レイン洗う（上・下）
 ### Insurance
 小計5,800¥
 

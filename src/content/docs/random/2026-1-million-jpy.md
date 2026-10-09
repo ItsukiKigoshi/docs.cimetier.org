@@ -73,7 +73,7 @@ title: 100万円の使い道
 小計63,000¥
 
 ## Electronics
-- [ ] 206,800¥: MacBook Air
+- [x] 206,800¥: MacBook Air
 
 小計206,800¥
 
