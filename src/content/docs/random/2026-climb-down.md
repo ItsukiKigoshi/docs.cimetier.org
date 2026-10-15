@@ -28,7 +28,7 @@ title: 2026下山後にやること
 
 ## Certificate
 - [ ] [中/大型二輪](https://musasisakai-ds.co.jp/web-contact/)
-- [ ] [AT限定解除](https://www.garne.co.jp/price/estimate/)
+- [x] [AT限定解除](https://www.garne.co.jp/price/estimate/)
 - [ ] アマ4: [アマチュア無線技士](../radio-op)
 - [ ] 気象予報士: [気象予報士](../meteo)
 - [ ] IELTS/TOEFL?
@@ -52,7 +52,7 @@ title: 2026下山後にやること
     - [ ] ラペルダウン
     - [ ] [ロワーダウン](https://www.petzl.co.jp/sport/%E7%B5%82%E4%BA%86%E7%82%B9%E3%81%A7%E3%81%AE%E3%83%AD%E3%83%AF%E3%83%BC%E3%83%80%E3%82%A6%E3%83%B3%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88/)
     - [ ] グローブヒッチ
-- [ ] 山道具を部屋の中に綺麗に陳列する: ラック
+- [x] 山道具を部屋の中に綺麗に陳列する: ラック
 
 ## Art
 - [ ] フィルム現像
