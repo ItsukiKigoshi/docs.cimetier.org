@@ -22,7 +22,7 @@ title: 100万円の使い道
 ## License
 - [ ] 103,700¥: [普通二輪MT車](https://musasisakai-ds.co.jp/plan/price/)(400cc以下)
   - [ ] 89,000¥: 大型二輪（[同時申し込み](https://musasisakai-ds.co.jp/news/28/)で; 乗車体験してみてからね）
-- [ ] 60,500¥: [MT解放](https://www.garne.co.jp/price/estimate/)
+- [x] 60,500¥: [MT解放](https://www.garne.co.jp/price/estimate/)
 - [ ] 11,400¥: [気象予報士](../meteo)
 - [ ] 5,100¥: [アマ4](../radio-op)
 
