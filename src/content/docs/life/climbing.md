@@ -74,8 +74,8 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] コンパス
 - [ ] テント穴塞ぎ
 	- [ ] ホースを使って庭で耐水試験
-	- [ ] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥** x2くらい?
-- [ ] カラサワペンダント
+	- [x] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥** x2くらい?
+- [x] カラサワペンダント
 ### Gear Care
 - [x] シュラフ洗う
 - [x] レイン洗う（上・下）
