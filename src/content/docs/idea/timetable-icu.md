@@ -1,0 +1,12 @@
+---
+title: Timetable.icu Enhancement
+---
+- [ ] 過年度の情報保存方法
+- [ ] iOS/Android App化する
+	- [ ] 自分の作品を管理する"Cimetier Labs" (labs.cimetier.org; astro + plain HTML) を作り個人事業主として活動/法人化（合同会社？）してDUNSを取得する
+	- [ ] React Nativeを使ってなるべく平易な記述かつ各プラットフォームのデザイン原則に準拠したネイティブアプリ化を行う
+  	- [ ] Apple: [HIG](https://developer.apple.com/design/human-interface-guidelines/)
+    - [ ] Android: [Material Design](https://m3.material.io/foundations)
+	- [ ] データはキャッシュし，オフラインでも完全に動作; データの更新日時を明示し，データ更新方法を提供
+- TESも拾う: 過去数年
+- [ ] DBをPostgresなどにReplaceする？
