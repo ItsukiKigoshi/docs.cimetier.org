@@ -1,6 +1,5 @@
 ---
 title: 株
-lastUpdated: 2026-09-16
 ---
 ## Have
 

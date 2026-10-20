@@ -67,7 +67,7 @@ title: 100万円の使い道
 ## Invest
 - [ ] 16,000¥?: (DIS) Walt Disney Company
   - <100$ (roughly 16,000¥)ならBuy
-- [x] 47,000¥? : (NET) Cloudflare
+- [x] 45,882¥? : (NET) Cloudflare
   - <299$ (roughly 47,000¥)ならBuy
 
 小計63,000¥
