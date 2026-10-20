@@ -63,7 +63,7 @@ title: 2026下山後にやること
 
 ## Invest
 - [ ] Disney
-- [ ] Cloudflare
+- [x] Cloudflare
 
 ## Climbing
 [🧗🏼‍♀️Climbing Up Gradually](../../life/climbing)に
