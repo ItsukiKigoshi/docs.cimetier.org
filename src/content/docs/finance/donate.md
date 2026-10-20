@@ -8,4 +8,5 @@ title: 寄付
 # Wanna Donate
 - Japan Red Cross
 - 国立美術館
+- Homebrew
 - Linux Foundation
