@@ -1,12 +1,23 @@
 ---
 title: 寄付
 ---
+# Policy
+
+Support independent* non-profit organisations that make the world better for me and people who i love (even if i've never met them).
+
+*Mainly supported by individuals
+
 # Donating
+
 - [国境なき医師団](https://www.msf.or.jp/donate/select/) 1,000¥/Month
-- [Wikimedia](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=JP&uselang=ja&wmf_medium=wmfSite&wmf_source=79613&wmf_campaign=navButton&appeal=WP25&pym_appeal=WP25) 500¥/Month
+- [Wikimedia](https://donate.wikimedia.org/w/index.php) 500¥/Month
+- [WayBack Machine](https://archive.org/donate) 3$/Month
 - [Mozilla Foundation](https://www.mozillafoundation.org/en/donate/) 300¥/Month
+
 # Wanna Donate
-- Japan Red Cross
-- 国立美術館
-- Homebrew
-- Linux Foundation
+
+## Non-Profit
+
+- [Japan Red Cross](https://donate.jrc.or.jp/lp/)
+- [Homebrew](https://github.com/sponsors/Homebrew)
+- [国立美術館](https://kifu.artmuseums.go.jp/)
