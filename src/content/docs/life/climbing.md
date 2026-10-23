@@ -8,6 +8,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - 特に冬/クライミング道具は中古で値段を抑えられる余地がある
 
 ### Mountaineering
+
 小計50,000¥
 - [ ] テント用ランタン
   - [ ] [CARRY THE SUN: Medium Warm Light](https://carrythesun.jp/products/medium-warm-light-white): **4,800¥**
@@ -24,28 +25,35 @@ title: 🧗🏼‍♀️Climbing Up Gradually
   - [ ] ~~BlackDiamond スポット 400: 8,470¥~~
   - [ ] ~~BD1500 (Battery): 3,410¥~~
   - [ ] \[要確認\]今のヘッドランプにも充電池を入れて使用できる？
+
 ### Sport Climbing
-小計50,200¥
+
+小計_¥
 - [x] はーねす
 - [x] ATC/るべるそ
 - [x] クライミングシューズ
 - [x] チョークバッグ
   - [ ] チョーク（どっかいった？）
 - [x] カラビナx1
+- [ ] ナイロンスリング
+	- [ ] 120cm x1: https://www.bluesheep.co.jp/store/g/gBD14090001/
+	- セルフビレイ用: スリング？デュアルコネクトアジャスト？PAS？
+- [ ] Karabinar (HMS; ツイストロック) x1
+	- セルフビレイ用
+	- https://www.petzl.co.jp/sport/smd/#%E8%A3%BD%E5%93%81%E8%A9%B3%E7%B4%B0
+- [ ] フリクションヒッチコード
+	- [ ] JAMMY (BEAL): 60cm: https://www.denali-netshop.jp/product/1879
 - [x] 歯ブラシ
 - [ ] ロープ x2?
   - [ ] どれを買えば... (e.g. [PETZL](https://www.petzl.co.jp/sport/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%AD%E3%83%BC%E3%83%97/))
   - [ ] [PETZL ルンバ 8mm (50m)](https://www.petzl.co.jp/sport/%E3%83%AB%E3%83%B3%E3%83%90-8-0mm/): **23,650¥**
 - [ ] Quick-draws x10くらい?
   - [ ] [BlackDiamond ホットフォージハイブリッド クイックパック](https://www.kamoshikasports.com/product/5621) **15,000¥** for x6; Buy x12?
-- [ ] ランヤード/パーソナルアンカー: セルフビレイ用
-	- [ ] [Petzl コネクト アジャスト](https://www.petzl.co.jp/sport/connect-adjust-2/): 10,120¥
-	- [ ] [BlackDiamond リンクパーソナルアンカーシステム](https://www.kamoshikasports.com/product/256): **6,930¥**
-- [ ] スリング
-  - [ ] [BlackDiamond 10mm ダイネックスランナー](https://www.kamoshikasports.com/product/984): 1,320¥-**4,620¥**
 - [ ] ギアラック?
 - [ ] カム/ナッツ（if necessary）x15くらい?
+
 ## Ice Climbing
+
 小計158,950¥
 - [x] 冬靴
 - [x] グローブ
@@ -70,16 +78,22 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] ショベル
   - [ ] [Black Diamond ディプロイショベル](https://www.bluesheep.co.jp/store/g/gBD42505/): **14,300¥**
 - [ ] 竹ペグ？
+
 ### Gear Repair
+
 - [ ] コンパス
 - [ ] テント穴塞ぎ
 	- [ ] ホースを使って庭で耐水試験
 	- [x] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥** x2くらい?
 - [x] カラサワペンダント
+
 ### Gear Care
+
 - [x] シュラフ洗う
 - [x] レイン洗う（上・下）
+
 ### Insurance
+
 小計5,800¥
 
 アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
@@ -87,6 +101,7 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 - [ ] [やまきふエキスパート](https://www.yamakifu.or.jp/course/member?type=ex): 10,000¥/Year
 ---
 ## Steps
+
 - [x] 室内Boulder
 - [x] 屋外Boulder
 - [x] 室内リード
