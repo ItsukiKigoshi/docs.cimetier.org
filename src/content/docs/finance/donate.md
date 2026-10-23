@@ -11,7 +11,7 @@ Support independent* non-profit organisations that make the world better for me 
 
 - [国境なき医師団](https://www.msf.or.jp/donate/select/) 1,000¥/Month
 - [Wikimedia](https://donate.wikimedia.org/w/index.php) 500¥/Month
-- [WayBack Machine](https://archive.org/donate) 3$/Month
+- [Archive.org](https://archive.org/donate) 3$/Month
 - [Mozilla Foundation](https://www.mozillafoundation.org/en/donate/) 300¥/Month
 
 # Wanna Donate
