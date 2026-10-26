@@ -9,7 +9,6 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 
 ### Mountaineering
 
-小計50,000¥
 - [ ] テント用ランタン
   - [ ] [CARRY THE SUN: Medium Warm Light](https://carrythesun.jp/products/medium-warm-light-white): **4,800¥**
 - [ ] Cooking Goods
@@ -28,21 +27,20 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 
 ### Sport Climbing
 
-小計_¥
 - [x] はーねす
 - [x] ATC/るべるそ
 - [x] クライミングシューズ
 - [x] チョークバッグ
   - [ ] チョーク（どっかいった？）
 - [x] カラビナx1
-- [ ] ナイロンスリング
-	- [ ] 120cm x1: https://www.bluesheep.co.jp/store/g/gBD14090001/
+- [x] ナイロンスリング
+	- [x] 120cm x1: https://www.bluesheep.co.jp/store/g/gBD14090001/
 	- セルフビレイ用: スリング？デュアルコネクトアジャスト？PAS？
-- [ ] Karabinar (HMS; ツイストロック) x1
+- [x] Karabinar (HMS; ツイストロック) x1
 	- セルフビレイ用
 	- https://www.petzl.co.jp/sport/smd/#%E8%A3%BD%E5%93%81%E8%A9%B3%E7%B4%B0
-- [ ] フリクションヒッチコード
-	- [ ] JAMMY (BEAL): 60cm: https://www.denali-netshop.jp/product/1879
+- [x] フリクションヒッチコード
+	- [ ] ~~JAMMY (BEAL): 60cm: https://www.denali-netshop.jp/product/1879~~
 - [x] 歯ブラシ
 - [ ] ロープ x2?
   - [ ] どれを買えば... (e.g. [PETZL](https://www.petzl.co.jp/sport/%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1/%E3%83%AD%E3%83%BC%E3%83%97/))
@@ -54,7 +52,6 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 
 ## Ice Climbing
 
-小計158,950¥
 - [x] 冬靴
 - [x] グローブ
   - [ ] インナーグローブ?
@@ -82,8 +79,8 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 ### Gear Repair
 
 - [ ] コンパス
-- [ ] テント穴塞ぎ
-	- [ ] ホースを使って庭で耐水試験
+- [x] テント穴塞ぎ
+	- [x] ホースを使って庭で耐水試験
 	- [x] [ドライテック 補修シート](https://webshop.montbell.jp/goods/disp.php?product_id=1134305): **1,400¥** x2くらい?
 - [x] カラサワペンダント
 
@@ -94,10 +91,8 @@ title: 🧗🏼‍♀️Climbing Up Gradually
 
 ### Insurance
 
-小計5,800¥
-
 アイゼン・ピッケルを使用する登攀，クライミングも対象になっているか？
-- [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): **5,800¥/Year**
+- [ ] [YAMAP外あそびレジャー保険](https://yamap.com/insurance/sotoasobi): 5,800¥/Year
 - [ ] [やまきふエキスパート](https://www.yamakifu.or.jp/course/member?type=ex): 10,000¥/Year
 ---
 ## Steps
