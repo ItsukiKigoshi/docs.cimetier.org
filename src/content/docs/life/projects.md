@@ -8,8 +8,9 @@ title: Projects Currently Working on
 
 ## Apps
 - [CocoPark?](https://gitlab.com/cimetier/cocopark): 現在地が自然公園法に定める自然公園かどうかを判断し，狩猟，野営，採集等のアクティビティ可否を判断する
-  - Native App: SwiftUI, Kotlin
+  - Native App: Kotlin
   - 趣味なので，効率よりも新しい開発環境（Xcode, Android Studio）を習得することが優先
+  - 親がスマホを買い換えるので，古いHuawei P20Liteをこのアプリ専用端末として使おう！Android 9で動くアプリを開発すればApple Developer Program税も発生せぬ．自分もAndroidにしたいな...iMessage以外の連絡方法さえ見つかれば．RCS？
 - [Timetable.icu](https://gitlab.com/ItsukiKigoshi/timetable.icu)
   - Native App: React Native
 - App Store Shipment: 配布の準備が整ったアプリが3つ以上できたら配布する．Apple Developer Programの登録料はアプリからの収益でまかなえることが理想
