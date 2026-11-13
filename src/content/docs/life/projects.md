@@ -21,7 +21,9 @@ title: Projects Currently Working on
 ## Art
 
 - Film development
-  - Colour
+  - [ ] Colour
+  - [ ] FilmにUUIDを振って管理する
+  - [ ] QR Code printed by TEPRA on the contact sheet/film case
   - B/W: https://www.thin-film.jp/droom2-1.html
 - Individual Exhibition
   - 作品を貯めて個展にする．ジャンルで言えばメディア芸術？
@@ -32,3 +34,5 @@ title: Projects Currently Working on
 - Dou Seminar: 卒業論文
   - "Applied Multivariate Statistical Analysis"
 - 日比谷高校資料館デジタルアーカイブプロジェクト
+  - [ ] IIIFを実用レベルで安価に実装する
+  - [ ] 情報学会などに登壇する
