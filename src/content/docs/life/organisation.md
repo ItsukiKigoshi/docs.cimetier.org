@@ -28,11 +28,13 @@ lastUpdated: 2026-09-16
 	- OSSへのコントリビュート
 ## Companies
 - [Cloudflare](https://www.cloudflare.com/careers/)
+- [カーリル](https://calil.jp/company/)
+- [YAMAP](https://corporate.yamap.co.jp)
+- [Yamatan](https://www.yamatan.net/about#management)
 - [DeepMind](https://deepmind.google/careers/)
 - [DuckDuckGo](https://duckduckgo.com/hiring)
 - [Duolingo](https://careers.duolingo.com/)
 - [Red Hat](https://www.redhat.com/en/jobs)
-- [YAMAP](https://corporate.yamap.co.jp)
 - [天地人](https://tenchijin.co.jp/)
 - [Sakana AI](https://sakana.ai)
 - Makers that I Just Like (ただ好きなだけ):
