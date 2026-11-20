@@ -39,6 +39,10 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "life" } }],
         },
         {
+          label: "Creation",
+          items: [{ autogenerate: { directory: "creation" } }]
+        },
+        {
           label: "Log",
           items: [{ autogenerate: { directory: "log" } }],
         },
