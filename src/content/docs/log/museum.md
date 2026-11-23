@@ -3,6 +3,28 @@ title: Visite au Musee
 lastUpdated: 2026-09-16
 ---
 ## 2026
+
+### 11/22
+- [Musée International de la Croix-Rouge et du Croissant-Rouge](https://redcrossmuseum.ch/)
+
+### 11/20
+- [Matterhorn Museum](https://duckduckgo.com/?q=matterhorn+museum&t=ffab&ia=web)
+
+### 11/19
+- [Ausstellungsstrasse](https://museum-gestaltung.ch/fr/visite/ausstellungsstrasse)
+- [Toni-Areal](https://museum-gestaltung.ch/fr/visite/toni-areal)
+- [Pavillon Le Corbusier](https://pavillon-le-corbusier.ch/)
+
+### 10/3
+- [松本市美術館](https://matsumoto-artmuse.jp/)
+  - [Sustainable World](https://matsumoto-artmuse.jp/events/event/sustainable-world/)
+  - [草間彌生 魂のおきどころ](https://matsumoto-artmuse.jp/events/event/yayoi/)
+
+### 10/2
+- [大町山岳博物館](https://www.omachi-sanpaku.com/)
+- [田淵行男記念館](https://azumino-bunka.com/facility/tabuchi-museum/)
+- [北アルプス展望美術館](https://navam.jp/)
+
 ### 5/20
 - Hawaii NOAA
 
