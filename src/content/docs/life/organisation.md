@@ -28,6 +28,10 @@ lastUpdated: 2026-09-16
 	- OSSへのコントリビュート
 ## Companies
 - [Cloudflare](https://www.cloudflare.com/careers/)
+- [Walt Disney Animation Studio](https://www.disneyanimation.com/teams/?type=technology)
+- [Pixar](https://www.pixar.com/careers/)
+- Bun
+  - [Anthropic](https://www.anthropic.com/careers)
 - [カーリル](https://calil.jp/company/)
 - [YAMAP](https://corporate.yamap.co.jp)
 - [Yamatan](https://www.yamatan.net/about#management)
@@ -38,17 +42,19 @@ lastUpdated: 2026-09-16
 - [天地人](https://tenchijin.co.jp/)
 - [Sakana AI](https://sakana.ai)
 - Makers that I Just Like (ただ好きなだけ):
-	- [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/) 
-	- [OM Digital Solutions](https://jp.omsystem.com) 
-	- [Moneytree](https://getmoneytree.com/jp/home) 
-	- 昔の[Evernote](https://evernote.com/ja-jp) 
-	- [ZEBRA (文具)](https://www.zebra.co.jp/) 
-	- [Moodle](https://moodle.org) 
+	- [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
+	- [OM Digital Solutions](https://jp.omsystem.com)
+	- [Moneytree](https://getmoneytree.com/jp/home)
+	- 昔の[Evernote](https://evernote.com/ja-jp)
+	- [ZEBRA (文具)](https://www.zebra.co.jp/)
+	- [Moodle](https://moodle.org)
 	- Subaru
 	- ヤマハ
 	- Roland
 	- ヤマハ発動機
 	- Sony
+	- ATOK: Mac版のアーキテクチャを更新し，設定画面をユーザフレンドリーに，英語と日本語を勝手に切り替えるなど，日本語IMEのリーディングカンパニーとしてIMEをとにかく使いやすいものにしたい．
+  	- JustSystems
 ## Orgs
 - [Médecins Sans Frontières](https://www.msf.org)
 - [Red Cross/Crescent](https://www.icrc.org/en)
