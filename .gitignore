@@ -21,4 +21,4 @@ pnpm-debug.log*
 .DS_Store
 
 # Obisidian files
-.obsidian/workspace.json
+**/.obsidian/workspace.json
