@@ -5,16 +5,17 @@ lastUpdated: 2026-04-23
 - Stockage
 	- Evernote
 	- [Zenn](https://zenn.dev/itsukikigoshi)
-		- セルフホストに比べ，SEOや運営を自分で管理しなくて良いのは明確に利点
+		- セルフホストに比べ，SEOや運営を自分で管理しなくて良いのは明確に利点．
+		- 検索エンジンのAI要約で引用されやすいので自分で振り返るときにも便利．
 	- [GitLab](https://www.gitlab.com/itsukikigoshi): 小規模プロジェクト，アーカイブ，実験
 	- [GitHub](https://www.github.com/itsukikigoshi): 大規模プロジェクト
 	- [Flickr](https://www.flickr.com/people/202138941@N05/)
 	- [Vimeo](https://vimeo.com/itsukikigoshi)
 	- [YouTube](https://www.youtube.com/@itsukikigoshi)
 - Banque
-	- メイン: Neobank / Sony Bank / SBI証券
-	- ガラケーにするならNeobankは使えない
-	- 用途別: SMBC, MUFG, Mizuho 1, Mizuho 2, ゆうちょ
+	- メイン: Docomo SMTB / Sony Bank / SBI証券
+	- ガラケーにするならDocomo SMTBは使えない
+	- 用途別: SMBC, MUFG, Mizuho, ゆうちょ
 - Journaux
 	- [Booklog](https://booklog.jp/users/itsukikigoshi)
 	- [IMDb](https://www.imdb.com/user/ur163313033/)
