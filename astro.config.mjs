@@ -11,6 +11,16 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Cimetier Docs",
+      defaultLocale: 'root',
+      locales: {
+        root: {
+          label: '日本語',
+          lang: 'ja',
+        },
+        en: {
+          label: 'English'
+        }
+      },
       customCss: ["./src/styles/global.css"],
       components: {
               Footer: './src/components/CustomFooter.astro',
