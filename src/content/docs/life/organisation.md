@@ -25,6 +25,24 @@ lastUpdated: 2026-09-16
 	- 例えばMIT Media Labに行きたいとして年齢のdisadvantageが効いてこない？
 - 入るためにできること？
 	- OSSへのコントリビュート
+## Grad School
+- シミュレーション天文学で博士号を取って，コンピュータエンジニアリングやろう
+	- Science/基礎研究のバックグラウンドがあるComputer Scientistは強い: [Dario Amodei](https://darioamodei.com/)
+- [総合研究大学院大学・天文科学コース](https://guas-astronomy.jp/)
+	- [Which Lab?](https://guas-astronomy.jp/Supervisors/index.html)
+	- [天文シミュレーションプロジェクト | 国立天文台(NAOJ)](https://www.nao.ac.jp/research/project/cfca.html)
+- [Institute for Astronomy・University of Hawaiʻi](https://www.ifa.hawaii.edu/)
+	- Which Lab?
+- 筑波大学
+	- [宇宙物理理論研究室](https://www2.ccs.tsukuba.ac.jp/Astro/home/ja)
+	- [宇宙観測研究室](https://astro.px.tsukuba.ac.jp/index.html)
+- [大阪大学・宇宙進化グループ](https://astro-osaka.jp/OUTAP/aboutus.html)
+- 名古屋大学
+	- [天体物理学研究室](https://www.a.phys.nagoya-u.ac.jp/jp/)
+	- [宇宙論研究室](https://www.astro-th.phys.nagoya-u.ac.jp/c-lab/)
+- [神戸大学・宇宙科学講座研究室](https://www.lab.kobe-u.ac.jp/csi-usui/newb4.html)
+- [千葉大学・宇宙物理学研究室](https://www.astro.phys.s.chiba-u.ac.jp/outline/index.html)
+- [芝浦工業大学・宇宙データ解析研究室](https://www.shibaura-it.ac.jp/faculty/laboratory/00151.html)
 ## Companies
 - [Cloudflare](https://www.cloudflare.com/careers/)
 - [Walt Disney Animation Studio](https://www.disneyanimation.com/teams/?type=technology)
