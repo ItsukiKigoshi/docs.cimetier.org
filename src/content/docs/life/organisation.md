@@ -6,7 +6,6 @@ sidebar:
 lastUpdated: 2026-09-16
 ---
 *I'm eager to workin' at*
-
 ## Pts of View
 - 自分の価値（[Values](../../core/values)）とどうつながっているか？
 	- Paperを書ける
@@ -41,21 +40,21 @@ lastUpdated: 2026-09-16
 - [Red Hat](https://www.redhat.com/en/jobs)
 - [天地人](https://tenchijin.co.jp/)
 - [Sakana AI](https://sakana.ai)
-- Makers that I Just Like (ただ好きなだけ):
-	- [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
-	- [OM Digital Solutions](https://jp.omsystem.com)
-	- [Moneytree](https://getmoneytree.com/jp/home)
-	- 昔の[Evernote](https://evernote.com/ja-jp)
-	- [ZEBRA (文具)](https://www.zebra.co.jp/)
-	- [Moodle](https://moodle.org)
-	- Subaru
-	- ヤマハ
-	- Roland
-	- ヤマハ発動機
-	- Sony
-	- ATOK: Mac版のアーキテクチャを更新し，設定画面をユーザフレンドリーに，英語と日本語を勝手に切り替えるなど，日本語IMEのリーディングカンパニーとしてIMEをとにかく使いやすいものにしたい．
-  	- JustSystems
 ## Orgs
 - [Médecins Sans Frontières](https://www.msf.org)
 - [Red Cross/Crescent](https://www.icrc.org/en)
 - [Centre Pompidou](https://www.centrepompidou.fr/fr/)
+ ## Makers that I Just Like (ただ好きなだけ):
+- [Ricoh Imaging](https://www.ricoh-imaging.co.jp/japan/)
+- [OM Digital Solutions](https://jp.omsystem.com)
+- [Moneytree](https://getmoneytree.com/jp/home)
+- 昔の[Evernote](https://evernote.com/ja-jp)
+- [ZEBRA (文具)](https://www.zebra.co.jp/)
+- [Moodle](https://moodle.org)
+- Subaru
+- ヤマハ発動機
+- ヤマハ
+- Roland
+- Sony
+- ATOK: Mac版のアーキテクチャを更新し，設定画面をユーザフレンドリーに，英語と日本語を勝手に切り替えるなど，日本語IMEのリーディングカンパニーとしてIMEをとにかく使いやすいものにしたい．
+		- JustSystems
